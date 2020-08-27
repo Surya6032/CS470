@@ -1,4 +1,4 @@
-#Program to print hello world
+#Program to print hypotenuse
 #Written by Surya Singh
 #CS 470
 #Date:- 8/27/2020
