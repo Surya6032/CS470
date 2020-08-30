@@ -8,4 +8,4 @@ for i in range(len(numbers)):
         numbers[i]=False
 for i in range(len(numbers)):
   if numbers[i]==False:
-    print(i)
+    print(i, end=" ") 
