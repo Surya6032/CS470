@@ -5,7 +5,8 @@ for i in range(len(numbers)):
         if(i % j==0): 
             break
     else: 
-        numbers[i]=False
+        if(i>=2):
+          numbers[i]=False
 for i in range(len(numbers)):
   if numbers[i]==False:
-    print(i, end=" ") 
+    print(i, end=" ")
