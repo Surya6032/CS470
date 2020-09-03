@@ -1,0 +1,2663 @@
+1794,NA,0,0,Exact Location Unknown
+1819,Washington,1,0,8 W Fairford - Saint Stephens
+1822,Morgan,0,0,Exact Location Unknown
+1823,Morgan,0,0,Exact Location Unknown
+1823,Chilton,0,0,Exact Location Unknown
+1824,Pickens,0,0,Exact Location Unknown
+1826,Montgomery,0,0,Near Montgomery
+1829,Tuscaloosa,0,0,Exact Location Unknown
+1830,Dallas,3,0,Selma
+1830,Calhoun,0,0,Exact Location Unknown
+1831,Dallas,2,0,Selma
+1834,Morgan,0,0,Exact Location Unknown
+1840,Mobile,1,2+,Spring Hill-Mobile
+1840,Jefferson,0,0,Exact Location Unknown
+1840,Blount,0,0,Exact Location Unknown
+1840,Etowah,0,0,Exact Location Unknown
+1840,Blount,0,0,Exact Location Unknown
+1842,Tuscaloosa,1,10,WNW Tuscaloosa - SE Windham Springs
+1843,Tuscaloosa,0,0,Exact Location Unknown
+1854,Lee,0,0,Exact Location Unknown
+1855,Pickens,0,0,Exact Location Unknown
+1857,Cherokee,0,0,Exact Location Unknown
+1858,Lee,0,0,Exact Location Unknown
+1860,Marengo,0,0,Near Jefferson
+1861,Cleburne,0,0,Exact Location Unknown
+1863,Cleburne,0,0,Exact Location Unknown
+1864,Lee,0,0,Exact Location Unknown
+1864,Autauga-Elmore,0,0,Exact Location Unknown
+1865,NA,15,0,20 E Montgomery
+1866,Perry,0,0,Exact Location Unknown
+1866,Talladega,0,0,Exact Location Unknown
+1866,Cleburne,0,0,Exact Location Unknown
+1866,Cherokee,0,0,Exact Location Unknown
+1867,Cleburne,0,0,Exact Location Unknown
+1867,Cleburne,0,0,Exact Location Unknown
+1867,Tuscaloosa,0,0,1 W Tuscaloosa - 12 NE Tuscaloosa
+1867,Calhoun,0,0,Exact Location Unknown
+1868,Pickens-Tuscaloosa**,7,0,3.8 WSW Macedonia-Moores Bridge
+1868,Talladega,5,0,3 S Talladega
+1868,Cleburne,0,0,Exact Location Unknown
+1869,Pickens,0,0,Exact Location Unknown
+1869,Talladega,0,0,Exact Location Unknown
+1869,Clay,0,0,Exact Location Unknown
+1870,Calhoun,0,0,Exact Location Unknown
+1870,Marshall,0,0,Exact Location Unknown
+1870,Calhoun,0,0,Exact Location Unknown
+1871,Coosa - Tallapoosa,0,0,Exact Location Unknown
+1873,Cleburne,0,0,Exact Location Unknown
+1874,Dallas,0,0,Between Minter and Belknap
+1874,Colbert-Lauderdale,14,30,3 SW Tuscumbia-S Rogersville
+1874,Hale,0,0,4 WSW Moundville - 13.8 SE Moundville
+1874,Greene,0,0,Trussels Ferry - Eutaw
+1874,Shelby,2,20,Montevallo-Shelby Springs
+1874,Jackson,0,0,Exact Location Unknown
+1874,Calhoun,0,0,Exact Location Unknown
+1875,Lee**,4,6,4 N Opelika-Georgia State Line
+1875,Coosa-Tallapoosa-Chambers**,5,20,Rockford-West Point
+1875,Pike,0,0,Near Troy
+1875,Lee-Chambers**,0,10,Opelika-6 S West Point
+1875,Pickens-Lamar,3,15,W Pickens Co
+1875,Cherokee,0,0,Exact Location Unknown
+1876,Etowah,0,0,Exact Location Unknown
+1876,DeKalb,0,0,Exact Location Unknown
+1876,Tallapoosa,2,Several,Exact Location Unknown
+1878,Hale,0,0,Near Havana to 9 ESE Moundville
+1878,Hale,0,0,Exact Location Unknown
+1879,Henry**,2,0,1 S Otho
+1879,Russell-Lee,1,15,Near County Line
+1879,Chilton,0,0,Exact Location Unknown
+1880,Blount,0,0,Exact Location Unknown
+1880,Madison- Jackson,3,2,NE Owens Crossroads - NE Paint Rock
+1880,Pike-Crenshaw,0,0,1 S Luverne-6 ENE Goshen
+1880,Barbour,0,0,Exact Location Unknown
+1880,Chilton,0,0,Exact Location Unknown
+1881,Sumter,0,0,N Sumterville
+1881,Randolph,0,0,Exact Location Unknown
+1881,Perry,0,0,Exact Location Unknown
+1881,Tuscaloosa,0,0,Exact Location Unknown
+1881,Cherokee,0,0,Exact Location Unknown
+1882,Choctaw,0,0,Near Riderwood
+1882,Dallas,5,20,14 S Selma
+1882,Etowah,0,0,Exact Location Unknown
+1882,Barbour,1,10,3 SSW Baker Hill
+1882,Lee,2,8,3 W Loachapoka-4 N Loachapoka
+1882,Dallas,3,15,Liberty Hill-Bear Creek Bottom
+1882,Henry,1,1,N Abbeville
+1882,Marengo,0,0,Nanafalia
+1882,Pike,0,10,Henderson-Spring Hill
+1882,Butler,2,20,N Garland-5 SE Georgiana
+1882,Washington,0,0,Exact Location Unknown
+1882,Madison,0,0,Exact Location Unknown
+1883,Henry,0,0,NW Headland
+1883,Cherokee,0,0,Exact Location Unknown
+1883,Randolph,1,5,6 W Roanoke
+1883,St. Clair,1,10,Springville-Whitney
+1883,Cherokee,0,0,Exact Location Unknown
+1883,Jefferson,0,0,Exact Location Unknown
+1883,Talladega,1,0,Exact Location Unknown
+1883,Blount,0,0,Exact Location Unknown
+1883,Jefferson,0,0,Exact Location Unknown
+1884,Lee,0,0,3.6 WSW Auburn - 2.5 NNE Opelika
+1884,Lawrence-Morgan,0,0,2.1 NE Hillsboro - 1.1 ESE Trinity
+1884,Cherokee,0,0,4.8 WNW Cedar Bluff - 6.9 NE Gaylesville
+1884,Elmore,0,0,4 SW Wetumpka - 3.7 E Eclectic
+1884,Perry,0,0,N Marion
+1884,Morgan,0,2,Near Decatur
+1884,Cullman,0,0,Exact Location Unknown
+1884,Henry,0,0,Exact Location Unknown
+1884,Lee,2,7,5.5 SW Auburn-4.9 ENE Opelika
+1884,Franklin-Colbert,3,4,8.5 NW Russellville - 5.1 NE Leighton
+1884,Lawrence,0,0,4 N Courtland
+1884,Madison,3,4,2 E New Market-6.3 NE New Market
+1884,Blount,7,0,2.8 S Remlap - 3.7 NE Highland Lake
+1884,St. Clair,1,0,2 NW Odenville-3.7 N Ragland
+1884,Blount-Marshall DeKalb,0,10,2.44 SW Snead-4.5 SE Mentone
+1884,Lawrence-Morgan-Limestone-Madison-Jackson,2,0,5.2 WSW Moulton - 4.7 N� Hollywood
+1884,Chambers,0,0,5 N Fredonia
+1884,Cherokee,0,1,Centre-9 E Cedar Bluff
+1884,Jefferson,0,3,Bessemer
+1884,Barbour,2,5,Clayton -11 NNW Eufaula
+1884,Choctaw,0,0,Toxey
+1884,Tuscaloosa,0,0,4.2 W Tuscaloosa - 8 NNE Brookwood
+1884,Greene,0,0,3.2 SSE Pleasant Ridge -2.9 NE Mantua
+1884,Marshall,2,20,8.5 S Guntersville-6 E Guntersville
+1884,Pickens,0,0,1.8 SW Pickensville -3.3 NW Carrollton
+1884,Cherokee,0,0,11.8 S Centre - Forney
+1884,Marshall,0,0,Exact Location Unknown
+1884,Talladega-Calhoun-Cherokee,26,70,12 SW Talladega-13 E Centre
+1884,Jefferson-St. Clair,13,31,5 WSW Hoover-2.9 E Branchville
+1884,Coosa,0,15,3 S Rockford-W Kellyton-E Goodwater
+1884,Pickens,0,0,Exact Location Unknown
+1884,Pickens,0,0,3.6 SW Macedonia-11 NNW Reform
+1884,Fayette,0,0,Exact Location Unknown
+1885,Lamar,0,0,4.22 SW Vernon - 6.9 NE Vernon
+1885,Sumter-Marengo,0,20,SE Sumter Co.-NW Marengo Co
+1885,Dallas,13,400,3 SW Crumptonia - 1.95 E Tyler
+1885,Morgan,0,0,Near Trinity
+1885,Madison,0,0,2.1 SW Meridianville - 3.9 NE New Market
+1885,Autauga-Chilton-Bibb,0,0,Near Plantersville-Dixie-Randolph
+1885,Dallas,0,0,3 N Selma-1 NE Tyler
+1885,Marshall,0,0,Exact Location Unknown
+1885,Coosa,0,0,Exact Location Unknown
+1885,Macon,1,5,4.5 SE Tuskegee - 5.6 NW Society Hill
+1885,Coosa-Clay-Randolph,2,20,7.1 SW Talladega Springs-9.4 NNE Roanoke
+1885,Blount-Cullman-Marshall-Dekalb,3,20,2.8 SW Good Hope -Collinsville
+1885,Greene-Hale-Bibb-Chilton,2,20,3.6 SW Boligee-3.3 NE Jemison
+1885,Lamar-Fayette-Walker,1,25,2 N Vernon-10 N Fayette-3 SE Eldridge
+1886,Hale,0,0,3.6 WNW Sawyerville- Havana
+1886,Bullock,7,2,3 NE Perote- 14 NE Union Springs
+1886,Elmore,0,0,6.8 SE Blue Ridge- Tallassee
+1886,Lee,0,0,5.1 SW Smiths- 3.1 NE Smiths
+1886,Clarke,0,0,10 SE Coffeeville- 4 NE Grove Hill
+1887,Lamar,0,0,3.5 WSW Millport-4.5 N Kennedy
+1887,Jefferson,0,0,Bessemer
+1887,Washington,0,0,5 NE Citronelle-5 N McIntosh
+1888,Talladega,0,0,8.1 SW Childersburg-4.6 ENE Childersburg
+1888,Pike,0,0,4.3 E Troy-2.5 ESE Banks
+1889,Bibb-Shelby,4,30,4.8 NE Centreville-1 W of Montevallo
+1890,Lawrence,0,0,Moulton
+1890,Talladega,0,10,5 SW Talladega to Talladega
+1890,Pickens,0,0,6.5 NW Reform-8 NNE Reform
+1890,Pickens,1,3,6 SW Carrollton-5 NE Carrollton
+1890,Geneva,1,3,Eunola-6 NE Eunola
+1891,Shelby,0,5,Helena
+1891,Tuscaloosa,0,6,Coaling
+1892,Monroe,0,0,Exact Location Unknown
+1892,Chambers-Randolph,3,20,9.3 SW Roanoke-7.8 NE Roanoke
+1893,Monroe,0,0,Damage Location Unknown
+1893,Dale,0,1,4.7 SW Midland City-2.4 NE Midland City
+1893,Choctaw,0,10,9 WSW Lisman-5 NE Lisman
+1893,Marengo,0,1,12.3 SE Thomaston
+1893,Choctaw-Marengo,0,0,4 SE Butler - 2 SW Putnam
+1893,Chambers,2,6,6 N of Lafayette-10 NE Five Points
+1893,Sumter,0,3,9 W Marion-Toomsuba-SE of Cuba
+1894,Wilcox,1,5,5 NE Coy-S Camden-Snow Hill
+1894,Jefferson,4,26,2.3 E Forestdale-2.75 SW Trussville
+1895,Baldwin,0,4,Point Clear-Battles Wharf-2.3 E Fairhope
+1895,Pike,0,0,Near Brundidge
+1895,Barbour,0,2,3.9 SW Clayton-6.2 SE Comer
+1895,Escambia,0,0,3 W Brewton-2 N Brewton
+1895,Mobile,0,0,Spring Hill - Saraland
+1896,Marshall,0,15,4 WNW Guntersville-6.4 SE Guntersville
+1897,Baldwin,1,5,Seminole
+1897,Lowndes-Montgomery,0,0,2.5 SSW Lowndesboro-8.8 W Montgomery
+1898,Jefferson,0,0,10 SW Bessemer - 2.1 NW Leeds
+1899,Jackson,0,0,1.5 W Scottsboro-1.5 SSE Fackler
+1899,Lee,1,0,Opelika
+1899,Montgomery,0,0,Hope Hull-N Fleta
+1899,Dallas-Chilton,0,0,Riderville
+1899,Chilton-Shelby,3,17,4 S of Montevallo-3 N Columbiana
+1899,Calhoun-Cleburne,12,30,4.9 WNW Heflin-1.9 NE Muscadine
+1899,Montgomery-Crenshaw,1,10,5.4 NW Highland Home-3.5 NW Ramer
+1899,Jefferson,0,3,Birmingham-Avondale-Woodlawn
+1899,Walker,0,0,8.4 S Jasper 5.1 E Jasper
+1900,Butler,0,3,10.4 SW Greenville-5.5 NE Greenville
+1900,Mobile,0,0,Wilmer - Chunchula
+1900,Madison,0,0,Huntsville
+1900,Marion,0,11,1.3 SE Hamilton-5 ENE Hamilton
+1900,Cullman,0,0,5 SW Good Hope - West Point
+1900,Jefferson,0,0,6 SE Oak Grove - 3 S Kimberly
+1900,Greene,0,0,4 W Eutaw-7 NE Eutaw
+1901,Pickens,0,0,Carrollton
+1901,Jefferson,25,100,Birmingham-Avondale-Irondale
+1902,Russell,0,0,8 ESE Hurtsboro
+1902,Franklin,0,8,Sarepta-Isbell
+1902,Greene,1,12,Eutaw
+1902,Bibb-Shelby,1,25,Piper-Gurnee Junction
+1903,Shelby,0,0,2 W Aldrich
+1903,Monroe-Conecuh,4,5,2 NW Peterman-4 SE Burnt Corn
+1903,Bibb-Shelby,0,0,Coleamore-10 W Alabaster
+1903,Cherokee,1,10,Leesburg
+1903,Blount-Cullman,19,100,Hopewell-Summit
+1904,Mobile,0,0,Tillman's Corner - Mobile
+1904,Hale-Tuscaloosa,36,150,2 SW Moundville- 3.4 SW Cottondale
+1905,Chambers-Randolph,6,17,5 SW Roanoke-Doublehead-Glenn-2.8 NE Rock Mills
+1906,Mobile,0,0,Oak Grove
+1906,Jackson-DeKalb,0,0,Henagar
+1906,Pike,2,20,8 NE Banks
+1906,Montgomery,1,5,Vaughan-4 SE Montgomery
+1907,Escambia,0,0,1 S Bluff Springs
+1907,Hale-Perry,1,5,Laneville-15 E Demopolis-5 NW Marion
+1907,Coffee-Dale,1,20,Central City-N Clayhatchee
+1907,Russell-Lee,0,5,W Crawford-Dudley-Phenix City-E Salem
+1907,Crenshaw,3,15,Patsburg-Petrey-Bradleytown
+1908,Escambia,0,2+,4 N Atmore
+1908,Coffee-Pike,0,10,12 SW Brundidge-7 E Brundidge
+1908,Montgomery,0,8,Grady
+1908,Covington,0,1,4 S Red Level
+1908,Montgomery-Elmore,0,0,7 NE Montgomery-11 NE Montgomery
+1908,Lowndes,2,22,2 SW Fort Deposit - 3 NE Fort Deposit
+1908,Cherokee,1,20,Bluffton-Cave Springs
+1908,Walker-Jefferson-Blount-Marshall-Dekalb,35,188,Dora-Bergens-Warrior-Albertville-Sylvania
+1908,Etowah,0,0,Hokes Bluff-Coates Bend
+1909,Marshall-Jackson,7,50,S Woodville-8 S Scottsboro
+1909,Lawrence,0,0,Courtland
+1909,Franklin,3,27,S Russellville
+1909,Morgan-Limestone-Madison,0,5,7.4 SSW Decatur- 4 NW Gurley
+1909,Escambia,0,0,5.8 WSW Brewton- Brewton
+1909,Clay,0,7,6.5 SW Pyriton-Delta
+1909,Calhoun,0,1,6.6 SW Piedmont-2.8 NE Piedmont
+1909,Lawrence-Morgan,4,18,7 SW Moulton-3 N Hartselle
+1909,Clarke,1,1,Cunningham Landing
+1909,Limestone,0,0,Alabama Line-5 NW Fayetteville
+1909,Calhoun,0,0,4.5 W Oxford-2.5 E Anniston
+1909,Colbert-Lawrence,1,1,4.3 SSW Leighton-1.5 SW Town Creek
+1909,Lowndes-Montgomery,3,40,3 S Lowndesboro-7 WNW Montgomery
+1909,Blount-Cullman,3,25,5 SW Hanceville-2.8 NW Blountsville
+1910,Macon,0,0,Near Warriorstand
+1910,Macon,0,0,South of Warriorstand
+1910,Monroe-Wilcox-Butler,1,20,7.3 SW Pine Apple-13.5 NW Greenville
+1911,Clarke-Monroe,3,50,Gainestown-4.7 NE Excel
+1912,Talladega,0,5,Talladega
+1912,Jefferson,1,50,3.7 SW Adamsville-3.1 NE Brookside
+1912,Pike,0,2,12.8 NW Troy-9.1 N Troy
+1912,Butler,0,0,Wald-9.8 SE Greenville
+1912,Geneva-Dale-Houston-Henry,9,50,Geneva-Hartford-Wicksburg-Headland-Near Columbia
+1912,Henry,0,0,North of Haleburg
+1913,Wilcox,1,10,Asahel-8 E Lower Peach Tree-3 E Camden
+1913,Clarke-Wilcox,27,60,Scyrene-Lower Peach Tree
+1913,Talladega-Clay-Cleburne,0,10,8 E Talladega-Heflin
+1913,Morgan-Limestone-Madison,3,20,Near Trinity-Near Meridianville
+1913,Lauderdale,3,0,Near Florence
+1913,Russell,0,12,Phenix City-Columbus Ga
+1913,Bullock,1,0,Wiley Hill Plantation
+1913,Montgomery-Macon,1,15,16 E Montgomery-to near county line
+1913,Limestone,0,15,3 W Tanner
+1913,Etowah-Cherokee,4,25,12 E Gadsden-Hokes Bluff-Gaylesville
+1913,Shelby-Talladega,0,8,Wilsonville-1 W Childersburg
+1913,Calhoun,4,10,Mt. Gideon-12 SE Gadsden
+1913,Lauderdale,0,0,SW Iron City-E Loretto-E Lawrenceburg
+1913,Lawrence-Morgan,1,10,Near Trinity
+1913,Pike-Butler-Crenshaw,3,4,N Greenville-N Troy
+1915,Montgomery,0,1,Montgomery
+1915,Chilton,0,10,Mountain Creek
+1915,Lamar,0,16,1 SE Millport
+1915,Sumter,0,5,SE Scooba-Geiger
+1916,Covington,1,0,Florala
+1916,Tallapoosa,0,0,Hackneyville
+1916,Dallas,0,8,12 W Selma
+1916,Chilton,0,2,6 SW Clanton
+1916,Lowndes,0,2,Lowndesboro
+1916,Jefferson,0,5,27 SW Birmingham
+1916,Jefferson,3,4,6 SW Birmingham
+1916,Washington,0,10,Yellow Pine
+1916,Mobile,1,1,8 SW Mobile - 3 W Mobile
+1916,Montgomery,0,1,4 N Montgomery
+1917,Madison-Marshall-Jackson,6,35,Near New Hope
+1917,Talladega,1,4,Sylacauga
+1917,Tuscaloosa-Bibb,1,10,SE Tuscaloosa-Woodstock
+1917,Tuscaloosa,5,10,Windham Springs
+1917,Blount,1,15,Lees Chapel
+1917,Walker,9,100,Carbon Hill-Manchester
+1917,Jefferson-Blount,27,100,Sayre-Bradford-Village Springs
+1917,Pike-Crenshaw,9,50,SW Petrey-Ansley-Shellhorn-3 W Saco
+1917,Hale,1,0,Prairieville
+1917,Coosa-Clay,9,50,3 WSW Stewartville-5 ENE Hollins
+1917,Elmore,0,2,Wetumpka
+1917,Russell,0,0,Hurtsboro
+1917,Hale-Perry,6,15,Whitsett-W Newburn-E Greensboro-Rosemary
+1918,Elmore,0,0,2 SW Elmore - N Wetumpka
+1918,Baldwin,0,0,S Point Clear - NE Robertsdale
+1918,Henry,1,8,SE Haleburg
+1918,Henry,0,2,5 S Abbeville
+1918,Houston,10,120,3 S Dothan - Webb
+1918,Pike,1,0,China Grove
+1919,Mobile,0,8,12 SW Mobile - 8 SW Mobile
+1919,Barbour,4,50,W Eufaula
+1919,Pike-Covington-Crenshaw-Coffee,1,10,Andalusia-6 S Brantley-Brundidge
+1919,Escambia,0,2,5 W Century-Flomaton
+1920,Madison,27,100,2 S Lily Flag-7 SE Huntsville
+1920,Fayette-Walker-Winston-Cullman-Morgan,21,50,SW Carbon Hill-Arley-Lacey
+1920,Marion-Franklin-Colbert-Lawrence,44,350,Bradley-NW Starkville-Bexar-NW Lawrence Co
+1920,Elmore-Tallapoosa-Chambers,17,85,Red Hill AL-West Point GA
+1920,Elmore,0,5,1 N Deatsville
+1920,Calhoun,1,10,Cedar Springs-West Point
+1920,Pike,0,1,E Troy
+1921,Chambers,0,15,Waverly-Cusseta
+1921,Elmore,N/A,5,NW Wetumpka
+1921,Dallas,1,10,Sardis-Tyler
+1921,Hale,0,5,Gallion
+1921,Greene-Tuscaloosa,4,40,3 SW Ralph-Northport
+1921,Choctaw,0,0,14 NW Butler - 14 NNW Butler
+1921,Franklin-Colbert,5,50,N Russellville-4 NW Leighton
+1921,Franklin,0,0,9 W Phil Campbell
+1921,Colbert-Lauderdale,1,10,3 E Tuscumbia-Killen
+1921,Lamar,4,30,8 W Vernon-Sulligent-Crews
+1921,Baldwin,0,5,Point Clear - 5 E Point Clear
+1921,Pickens,0,2,10.5 NW Aliceville-3.4 NE Reform
+1922,Madison,0,3,Near Paint Rock Bluff
+1922,Cullman,0,8,Crane Hill-Cullman
+1922,Colbert-Lawrence-Lauderdale,0,3,2 S Tennessee River-Near Town Creek
+1922,Cullman,0,0,Cullman
+1922,Lee,2,10,1 W Salem-2 N Goat Rock
+1922,Cullman,0,2,Crane Hill
+1922,Limestone,0,0,Gilbertsboro-1 N Lester-Bunker Hill
+1922,Mobile,0,6,10 N Wilmer-1 NE Citronelle
+1922,Coffee,1,12,Near Enterprise
+1923,Baldwin,1,2,1 N Latham
+1924,Talladega,0,0,SE Childersburg
+1924,Macon-Russell,1,2,Hannon-5 NE Hurtsboro
+1924,Etowah,0,8,6 S Gadsden
+1924,Dallas,0,3,4 N Selma-Burnside
+1924,Walker,11,7,3 N Empire
+1924,"Pickens**(started in Noxubee Co, Ms)",1,10,E Shuqualak-Lubbub Creek
+1924,"Marion**(moved through Lee & Itawamba Cos, Ms)",0,20,12 W Hamilton
+1924,Limestone,8,0,3 E Elkmont
+1924,Pike-Barbour,1,40,E Tarentum-S Brundidge-Clio-Louisville
+1924,Bullock-Macon,6,20,9 NW Union Springs-N Hannon
+1924,Lee,4,25,2 SE Auburn-1.5 N Opelika
+1924,Butler,1,10,Greenville
+1924,Chambers-Randolph,1,6,7 S Roanoke
+1924,Autauga,0,9,Autaugaville
+1924,Jefferson,3,5,Birmingham-Rocky Ridge
+1924,Walker,0,3,SE Dora
+1924,Pike-Coffee,0,0,10 NE Elba-Jack-Tarentum
+1925,Crenshaw-Pike-Bullock-Barbour,18,60,5 N Luverne-N Troy-NE Comer
+1925,Colbert,1,12,Littleville
+1925,Pike,0,0,Shellhorn
+1925,Coffee,0,1,West Elba
+1925,Coffee,0,3,3 S Enterprise
+1926,Fayette-Marion,4,15,1 NW Winfield
+1927,Monroe,1,20,Tunnel Springs
+1928,Clarke,3,1,4 SE Grove Hill
+1928,Calhoun,0,5,Cobb City
+1928,Jefferson-St. Clair,4,25,10 NE Birmingham-1 S Argo-5 S Springville
+1928,Clarke,0,1,4 SE Grove Hill
+1928,Marengo-Dallas-Wilcox,3,20,Shiloh-Central Mills-N Orrville
+1929,Tuscaloosa,0,0,Tuscaloosa
+1929,Blount,0,0,Remlap
+1929,Calhoun,5,25,W Jacksonville-2 S Merrellton
+1930,Henry,0,1,3 SW Headland
+1930,Elmore,0,3,10.0 N Wetumpka
+1931,Chambers,0,0,Riverview
+1931,Elmore,2,2,Between Robinson Springs and Millbrook
+1931,Wilcox,0,0,Camden
+1931,Elmore,0,0,3.0 W Eclectic
+1931,Coffee,1,5,3 S Elba
+1932,Houston,1,16,Cowarts
+1932,Pike,0,4,3.0 SW Troy
+1932,Cleburne,1,10,Abel-Chulafinnee
+1932,Tallapoosa-Chambers,0,12,Dadeville-White Plains
+1932,Bibb-Chilton-Coosa,5,20,W Lawley-S Jemison-Marble Valley
+1932,Elmore,0,8,NE Speigner
+1932,Elmore,0,0,W Speigner-E Holtville-Lake Jordan
+1932,Morgan,0,5,Neel
+1932,Morgan-Madison-Jackson,36,500,Laceys Spring-Paint Rock-Bridgeport-6 E Jasper
+1932,Talladega-Clay-Randolph,13,160,5.0 ESE Sylacauga-Newell-4.0 N Ashland-1.0 N Lineville
+1932,Winston-Cullman-Morgan,8,25,NE Addison-SW Falkville
+1932,Lawrence-Morgan,4,10,Piney Grove
+1932,Talladega,41,325,Sylacauga
+1932,Marengo-Hale-Perry,10,30,W Faunsdale-Scotts Station
+1932,Hale-Perry,1,1,Greensboro
+1932,Perry-Chilton-Coosa,31,200,W Plantersville-Stanton-Lomax-Marble Valley
+1932,Shelby-Talladega,14,75,SW Columbiana
+1932,Perry-Bibb-Chilton-Shelby-Coosa,49,150,3 N Marion-Lawley-Jemison-Union Grove
+1932,Cullman-Morgan-Marshall,18,100,4 S Cullman-3 W Arab
+1932,Tuscaloosa,37,200,Ralph-Tuscaloosa-Northport
+1932,Marengo-Perry,3,12,3 SW Linden-Faunsdale-W Perry Co.
+1932,Marengo-Greene-Hale,3,9,Demopolis
+1932,Lauderdale,0,0,Green Hill
+1932,Houston,0,5,Cowarts
+1932,Elmore,0,9,Millbrook
+1932,Marengo-Perry,1,12,Faunsdale-Uniontown
+1932,Hale-Tuscaloosa,9,29,Moundville
+1932,Pickens,0,2,Fellowship-W Gordo
+1933,Bibb-Shelby,21,200,3.0 S Brent-SE Centreville-Helena
+1933,Sumter-Marengo-Choctaw,4,27,2.0 E Edna-Demopolis
+1933,Marion,0,0,5 E Hamilton
+1933,Baldwin,1,0,Perdido Beach
+1933,Escambia-Conecuh,0,40,7 W Brewton-5 E Castleberry
+1933,Baldwin,1,2,Elberta
+1933,Lee,0,5,Opelika
+1934,"Randolph**(continued into Carroll Co, Ga)",0,0,E Randolph Co.
+1934,Clay,4,40,5.0 W Millerville-3.0 S Ashland
+1934,Shelby,1,12,Calera-E Columbiana
+1935,Dale,3,0,2 E Midland City
+1935,Escambia,0,8,3 W McCullough
+1935,Pike,0,3,15.0 ENE Troy
+1935,Houston,0,22,Hodgesville
+1936,Chilton,0,10,Near Maplesville
+1936,Chilton-Shelby,0,6,Enon-Newala-Spring Creek
+1936,Jefferson,1,16,Crumley's Chapel-Hoagtown-Docena
+1936,Tuscaloosa,0,25,11.0 NW Tuscaloosa
+1936,Pickens,0,5,5.0 NE Aliceville
+1936,Lauderdale-Limestone-Madison,4,13,Rogersville-SE Elkmont-Flintville
+1936,Franklin-Colbert,8,55,Red Bay-Frankfort
+1936,Pickens,1,5,7.0 N Gordo
+1936,Henry,0,4,Lawrenceville
+1936,Houston,1,6,Campbellton-Ashford-Cottonwood-Grangeburg
+1936,Dale,1,7,Skipperville
+1936,Shelby,0,5,4.0 SE Columbiana
+1936,DeKalb,4,8,Oak Grove-3 W Fyffe-Rainsville
+1937,Mobile,0,3,Mobile
+1937,Houston,1,25,Dothan-Cottonwood
+1937,Pike,4,25,7 SW Brundidge
+1937,Dale,2,0,Ozark
+1937,Barbour,0,3,2 N Eufaula
+1938,Pickens,11,51,Near Aliceville
+1938,Lamar,0,7,Near Millport
+1938,Monroe,1,12,6 W Monrovia
+1938,Walker,0,11,Nauvoo
+1938,Jefferson,1,8,Mulga
+1938,Marengo,1,25,E Demopolis
+1938,Crenshaw,1,0,3 S Petrey
+1939,Cleburne,0,16,Ranburne
+1939,Tuscaloosa,0,2,5.0 W Northport-3.0 NW Northport
+1939,Greene,1,2,Boligee
+1939,Madison-Marshall,1,11,5 SW Woodville
+1939,Shelby,0,7,Montevallo
+1939,Escambia,0,7,East Brewton
+1939,Pike,0,4,6.0 SE Troy
+1939,Clay,1,9,Near Cragford
+1939,Jefferson,1,4,Pinson
+1939,Limestone,1,0,Tanner
+1939,Pickens,0,10,Aliceville-Carrollton
+1939,Lamar,0,3,Beaverton
+1939,Tuscaloosa,0,11,Coker
+1939,Shelby-Talladega,0,7,Columbiana-Childersburg
+1940,Houston,0,2,Dothan-2 W Webb-Headland
+1940,Choctaw,0,30,Gilbertown
+1940,Lowndes,0,3,St. Clair
+1940,Montgomery,3,10,2.0 SW Mt. Meigs
+1940,Monroe,3,12,9 N Monroeville-Beatrice-Riley's Crossroads
+1942,Russell,0,31,Hurtsboro
+1942,Lauderdale,2,30,Waterloo
+1942,Chambers,0,13,Milltown-Stroud-Standing Rock
+1942,Autauga-Chilton-Elmore,0,8,Marbury-Verbena
+1942,Franklin,2,10,5 E Russellville
+1942,Franklin,1,25,Russellville
+1942,Monroe,0,11,Megargel-Excel
+1942,Washington,0,0,Deer Park-2 N McIntosh
+1942,Mobile,1,11,Theodore
+1943,Chilton-Coosa-Tallapoosa,0,10,SW Verbena-Alexander City
+1943,Dallas,1,20,Cahaba-Selma-Burnsville
+1943,Cullman,2,14,Vinemont
+1943,Marion,4,60,Hackleburg
+1944,Houston,0,0,Webb
+1944,Talladega,2,20,5.0 S Childersburg-Winterboro-Talladega
+1944,Walker,0,1,Sumiton
+1944,Pike-Crenshaw,1,12,Luverne-W Troy
+1944,Mobile,0,2,Big Point-Seven Mills
+1944,Blount-Marshall,2,40,2.0 SE Douglas-N Boaz
+1944,Calhoun,2,35,Jacksonville
+1945,Coosa,0,0,Kellyton
+1945,Jefferson,0,1,Birmingham-Shades Mountain
+1945,Chilton,1,8,SE Stanton
+1945,Lee,0,1,S Opelika
+1945,Macon,0,2,E Tuskegee
+1945,Bullock,0,9,9.0 W Union Springs-Thompson
+1945,Montgomery,26,293,5.0 SW Montgomery-Chisholm
+1945,Sumter,11,63,York-Livingston
+1946,Mobile-Washington,0,4,Calvert
+1946,Lowndes,0,0,Sandy Ridge
+1947,Conecuh-Butler,3,30,Bethel-Shacklesville
+1947,Elmore,3,30,Kent
+1947,Montgomery,0,12,Montgomery
+1948,Clay,0,3,Ashland
+1948,Jefferson,0,0,No Information Available
+1948,Lee,0,4,Opelika
+1948,Pickens,3,40,Aliceville
+1948,Colbert-Lauderdale,0,3,E Florence-Wilson Dam
+1949,DeKalb,1,20,Sand Mountain-S Henagar-N Mentone
+1949,Tallapoosa,10,10,Hackneyville-NE Alexander City
+1949,Blount,4,44,Fairview-Oneonta-Tate's Gap
+1949,Montgomery,0,0,Montgomery
+1949,Covington,0,5,3 SW Red Level
+1950,Baldwin,0,14,2 NW Spanish Fort - 2 NE Spanish Fort
+1950,Mobile,0,15,6 NNW Tillmans Corner - 2.5 NW Saraland
+1951,Blount,0,1,1 SSE Blountsville 1.5 ESE Blountsville
+1951,Lauderdale,0,6,W Oakland - N Oakland
+1951,Cullman,0,2,Walter - Holly Pond
+1951,Madison,0,2,4 N New Market
+1951,Fayette,0,3,Near Bankston
+1952,Fayette,0,0,Fayette-Bankston
+1952,Fayette,0,0,Fayette
+1952,Fayette,0,0,Covin-Fayette
+1952,Mobile,0,2,SW Airport Station
+1952,Morgan-Madison,4,50,Massey-W Falkville-Hartselle-Winston-Redstone Arsenal
+1952,Pickens,0,6,Near Gordo
+1952,DeKalb,0,12,Near Fort Payne
+1952,Jefferson,1,26,Shady Grove-Adamsville-Graysville-Pinson
+1952,Blount-Cullman,0,6,Garden City - 6 NE Garden City
+1952,Fayette-Tuscaloosa,1,14,New Lexington - 4 SE Bankston
+1952,Tallapoosa,0,0,S Alexander City
+1953,Henry,0,1,Headland
+1953,Henry,0,0,4 NW Headland
+1953,Jefferson,0,0,Near Bessemer
+1953,Marion,0,2,Near Winfield
+1953,Choctaw,2,3,1 S Riderwood-2 N Lisman
+1953,Jefferson,0,0,Trussville
+1953,Clay,7,12,N Millerville-S Lineville
+1953,Chilton,0,2,4 S Calera - Minooka
+1953,Lee-Russell,6,195,Near Loachapoka - Phenix City
+1953,Shelby,8,495,Siluria (Alabaster)
+1953,Blount,0,0,2 SSW Hayden
+1953,Jefferson,0,12,Bessemer
+1953,Lauderdale,0,0,6 W Florence
+1953,Mobile,0,2,Mobile
+1953,Franklin,0,6,Vina-N Dempsey
+1953,Walker,0,1,Macedonia
+1953,Marion,0,2,Near Winfield
+1953,Colbert,1,8,Wheeler Mountain - SW Tuscumbia
+1953,Washington-Clarke,0,1,St. Stephens-Jackson
+1953,Blount,0,1,ENE Blountsville
+1953,Walker,0,0,Near Cordova
+1953,Talladega,0,0,Talladega
+1953,Dallas,0,0,12 N Selma
+1954,Russell,0,4,2 W Crawford
+1954,Pike,0,2,Ansley-Near Troy Airport
+1954,Barbour,0,3,NE Clayton-NE Eufaula
+1954,Calhoun,0,26,Ohatchee-Wellington-Piedmont
+1954,Lee,0,4,2 N Opelika - Lake Harding
+1954,Coffee-Dale,0,1,2 E Enterprise-3 E Ozark
+1954,Henry,0,0,1 W Headland
+1954,Russell,0,0,Fort Mitchell
+1954,Chilton,0,0,Mt. Pleasant-New Salem-Collins Chapel-Mineral Springs
+1955,Coffee-Dale,0,5,3.2 NW Enterprise - 3.2 SSE Ozark
+1955,Coffee,0,0,5.1 SE Elba - 4.6 E Enterprise
+1955,Morgan,5,20,4.2 NW Battleground - Falkville
+1955,Dallas,0,1,1.8 SSelma - 1.7 SE Selma
+1955,Colbert,0,1,Allsboro - 3.2 SW Cherokee
+1956,Lowndes-Elmore-Montgomery-Tallapoosa-Monroe-Conecuh-Butler,0,1,Excel-Reeltown
+1956,Clarke,0,0,6 N Jackson - Frisco City
+1956,Covington,0,2,11.7 ESE Georgiana - 14.2 E Georgiana
+1956,Jefferson,25,200,Pleasant Grove-McDonald Chapel-Trussville
+1956,Geneva-Houston,0,0,6.6 SW Dothan - 3.8 WSW Ashford
+1957,Conecuh,0,0,4 E Castleberry-8 E Castleberry 2 homes and a barn were destroyed.
+1957,Chilton,0,0,Clanton
+1957,Colbert,0,7,Littleville
+1957,Fayette,0,0,4 S Winfield
+1957,Blount-Marshall,3,12,Rosa-Snead-Horton
+1957,Clay,0,0,Ashland
+1957,Cleburne,0,0,Near Macedonia
+1957,Morgan,0,0,Hulaco
+1957,Morgan-Lawrence,0,0,Moulton
+1957,Tallapoosa,0,0,Near Alexander City
+1957,DeKalb,0,0,Dawson
+1957,Jefferson,1,35,Ensley-Tarrant City
+1957,Tuscaloosa,0,1,12 N Tuscaloosa
+1957,Dallas,0,0,Safford-Near Orrville-Marion Junction-Summerfield-Plantersville
+1957,Greene-Hale,0,5,Forkland-Sawyerville-Near Akron-Havana
+1957,Franklin,0,0,Belgreen-2 NW Russellville
+1957,Cullman,0,3,Trimble-Crane Hill
+1957,Walker,4,15,6 NW Jasper-1 N Manchester
+1957,Lamar,0,0,Sulligent
+1957,Shelby,0,0,2 NE Columbiana-2 W Wilsonville
+1957,Pickens,0,5,1.2 E Aliceville - 8.7 E Aliceville
+1957,Dallas-Autauga,0,0,E Selma - Jones
+1957,Lee,0,0,Smiths
+1957,Barbour,0,1,8 NE Brundidge-Batesville
+1957,Crenshaw,0,0,Near Luverne
+1957,Conecuh-Covington-Butler,0,2,5.5 WNW Red Level - 5.6 NE McKenzie
+1957,Conecuh,0,0,Near Middleton Field
+1957,Montgomery-Bullock,0,0,8.9 NE SPrague - 1.7 NW Union Springs
+1957,Conecuh-Butler,0,0,4 WNW Evergreen - Jones Chapel
+1957,Butler,0,0,6 SW Greenville-6 ENE Greenville
+1957,Lowndes-Montgomery,0,8,S Fort Deposit-Sprague
+1957,Monroe,0,4,1 S Frisco City-Bermuda
+1957,Conecuh-Butler,0,0,10 W Evergreen-3 S Butler Springs
+1957,Lowndes-Montgomery,0,0,3 S Hayneville-3 SW Hope Hull
+1957,Montgomery,0,0,1 N Sellers
+1957,Wilcox,0,0,Oakhill
+1957,Clarke,0,0,Suggsville-5.5 SW Grove Hill
+1957,Henry,0,0,Headland
+1957,Cullman-Morgan-Marshall,0,0,Hulaco-Near Guntersville
+1957,Morgan-Marshall,2,125,6 SW Falkville-6 SE New Hope
+1957,Marion-Winston-Lawrence,0,5,1.6 SSE Hamilton-6.8 SSW Danville
+1957,Franklin,0,0,Near Red Bay
+1957,Mobile,0,4,6 SW Mobile - 5 SW Mobile
+1957,Houston,0,0,Dothan
+1958,Lauderdale,0,0,Elgin Crossroads
+1958,Houston,0,0,Columbia
+1958,Morgan,0,1,Near Decatur
+1958,Etowah,0,0,Near Gadsden
+1958,Chilton,0,0,Jemison-Friendship-Walnut Creek-Sunshine
+1958,Chilton,0,0,2 E Clanton
+1958,Jefferson,0,0,6 SSW McCalla
+1958,Jefferson,0,0,Gardendale
+1958,Marshall-Jackson,0,1,Albertville-Section
+1958,Cullman-Morgan,0,0,West Point-Lacon
+1958,Cullman-Morgan,0,0,Vinemont -Eva
+1958,Madison,0,0,Near Harvest
+1958,Limestone,0,1,Athens-Thach
+1958,Lawrence-Limestone,0,0,Town Creek - Elk River Bridge
+1958,Colbert-Lawrence-Lauderdale,1,1,SE Spring Valley-3 S Leighton-3 N Town Creek-Rogersville
+1958,Morgan,0,0,Decatur
+1958,Montgomery-Macon,0,0,2 S Mathews-2 E Shorter
+1958,Escambia,0,0,4 NE Atmore
+1958,Choctaw,0,0,Isney-W Gilbertown-Toxey-Jachin
+1958,Pike,0,0,W Goshen-NW Troy
+1958,Franklin,0,0,1.3 SW Belgreen- 1.7 NE Belgreen
+1959,Dallas,0,3,2.5 E Selma
+1959,Dallas,0,0,Selma
+1959,Jefferson,0,5,1 S Bessemer-Fairfield
+1959,Bibb,0,0,4 S Centreville
+1959,Talladega,0,0,Near Plantersville
+1959,Mobile,0,0,Citronelle
+1959,Coffee,0,0,Enterprise
+1959,Cullman,0,0,5 W Baileyton
+1960,Jefferson,0,0,Near Birmingham
+1960,Talladega,0,2,Sylacauga
+1960,Clarke,0,0,Gosport
+1960,Butler,0,0,8 E Georgiana
+1960,Jackson,0,0,Scottsboro
+1960,Mobile,0,0,Near Bellefountaine-Hollingers Island
+1960,Mobile,0,0,W St. Elmo
+1960,Mobile,0,0,1.2 NW Chunchula - Satsuma
+1960,Monroe,0,0,3 SW Peterman-1 E Peterman
+1960,Mobile,0,0,6 SW Mobile
+1961,Perry,0,1,2.5 SSE Marion-5.8 E Marion
+1961,Cleburne,0,0,Shoal Creek Recreation Area
+1961,Sumter,0,0,2 S Cuba-Near Bellamy-5 NE Coatopa
+1961,Coosa,0,0,Goodwater
+1961,Chilton,0,0,Collins Chapel
+1961,Hale,0,0,Madison-Christian Community
+1961,Perry,0,2,W Marion-NE Sprott
+1961,Calhoun,0,0,1.4 SW Jacksonville-1.3 NE Jacksonville
+1961,Escambia,0,12,Brewton
+1961,Mobile,0,0,8 E Bayou La Batre
+1961,Houston,0,0,Cowarts
+1961,Madison,0,0,1.5 E New Market
+1961,Pike,0,2,9SSW Troy
+1961,Pike-Barbour-Coffee,0,0,Near Abbeville - Eufaula
+1961,Russell,0,7,Phenix City
+1961,Escambia,0,0,Atmore-SE Robinsonville
+1961,Tallapoosa,0,0,Alexander City
+1961,Cullman-Morgan-Marshall,0,8,W Fairview-Hulaco-Eddy-Union Grove-Guntersville Dam
+1961,Fayette-Walker,0,1,Mt. Vernon-Bluff-New River-Kansas
+1961,Russell,0,4,Hurtsboro-Near Hatchechubbee and Seale-5 S Phenix City
+1961,Tuscaloosa,0,0,Tuscaloosa
+1961,Marengo,0,2,NE Linden
+1962,Baldwin,0,0,SE Bon Secour-E Miflin
+1962,Marion,0,0,Winfield
+1962,Fayette,0,0,Belk
+1962,Colbert,0,0,NW Littleville
+1962,Marshall,0,0,Douglas
+1962,Cullman,0,0,Cullman
+1962,Talladega,0,0,Sylacauga
+1962,Calhoun,0,10,Weaver
+1962,Houston-Henry,0,0,W Kinsey-Headland
+1962,Crenshaw-Pike,0,0,2 W Glenwood - Glenwood
+1962,Covington,0,0,Andalusia
+1963,Jefferson,0,0,Birmingham
+1963,Russell,0,0,Crawford
+1963,Marion,0,17,Byrd-Fulton Bridge-3 E Hamilton
+1963,Lowndes-Montgomery,0,0,2 NW Letohatchee-Tabernacle-Pintlalla
+1963,Autauga,0,0,5 SW Independence-Swift Creek
+1963,Talladega,0,4,Near Dry Valley
+1963,Shelby,0,0,Pelham
+1963,Shelby,0,0,Mountain View Lake
+1963,Bibb,0,4,Brent-Centreville
+1963,Tallapoosa,0,0,Mt Carmel-Dudleyville
+1963,Marion-Winston,0,4,5 SSW Hamilton-Pebble Community
+1963,Limestone-Madison,1,3,Paradise Shores-Ripley-Copeland-East Limestone-Plevna
+1963,Franklin,0,0,Pogo
+1963,Cullman,2,6,Valley Grove-Phelan-Berlin-Fairview-Holly Pond
+1963,Pickens-Fayette,0,0,5.7 NW Reform-Ashcraft Community
+1963,Walker,0,0,Townley
+1963,Cherokee,0,3,8.6 NE Piedmont -Rock Run-15.9 SE Centre
+1963,Jefferson,0,35,Bessemer-Homewood-Mountain Brook
+1963,Coffee,0,0,13 WSW Enterprise
+1963,Clarke,0,0,1.7 N Grove Hill - 4.2 NE Grove Hill
+1964,Russell,0,0,Crawford
+1964,Butler,0,0,Brushey Creek
+1964,Covington,0,0,Conecuh National Forest
+1964,Baldwin,0,3,W Foley
+1964,Butler,0,0,Butler Springs-SW Forest Home
+1964,Barbour,0,3,Eufaula
+1964,Butler,0,0,2 SW Georgiana-Near Chapman
+1964,Conecuh,0,0,6 NE Evergreen
+1964,Talladega,0,0,Lincoln
+1964,Lowndes,0,0,Sandy Ridge-Flatwood
+1964,Tallapoosa,0,0,Ourtown-3 NE Dadeville
+1964,Cleburne,0,8,Fruithurst-Muscadine
+1964,Calhoun,0,0,2.1 W Alexandria - 2 ENE Alexandria
+1964,Talladega,0,1,Lincoln
+1964,St. Clair,0,0,Ashville-Ragland
+1964,Cherokee,0,0,Blanche-Rhinehart
+1964,Marshall,0,0,Arab
+1964,DeKalb,0,0,Lathamville-Crossville
+1964,DeKalb,0,1,Painter-Oak Hill
+1964,Cullman,0,0,Longview-NE Vinemont
+1964,Choctaw,0,0,Ararat
+1964,Winston,0,11,5.4 SW Addison-Addison
+1964,Lauderdale,2,5,Near Florence-Whitehead
+1964,Franklin,0,1,Spruce Mountain-Tharptown
+1964,DeKalb,0,0,Rodentown
+1964,Shelby,10,6,1.9 SSW Harpersville - 3.9 SE Harpersville
+1965,St. Clair,0,0,Moody - Pell City
+1965,Crenshaw,0,2,Centenary
+1965,Cullman,0,0,Cullman
+1965,Mobile,0,0,Near Theodore
+1965,Bibb,0,0,Woodstock
+1965,Jackson-DeKalb,0,2,Blow Gourd-E Rosalie-S Ider-Sulphur Springs
+1965,Colbert-Lauderdale-Limestone,0,22,Tuscumbia-Wilson Dam-SE Killen-Center Star-Anderson-Good Springs
+1965,Pickens,0,18,Aliceville
+1965,Colbert,0,0,Florence
+1966,Lowndes-Montgomery,0,0,6 W Dannelly Field-Hope Hull
+1966,Baldwin,0,0,Ranbun-Perdido
+1966,Hale,0,0,Moundville
+1966,Jefferson,0,0,Bradford
+1966,Cullman,0,1,West Point-Vinemont
+1966,Russell,0,0,Pittsview
+1966,Houston,0,0,Kinsey
+1966,Jefferson,0,0,17 NE Birmingham Airport
+1966,Jefferson,0,2,Gardendale
+1966,Pickens-Tuscaloosa,1,27,3.5 NW Panola-Vienna-Benevola-Near Buhl-20 NE Tuscaloosa
+1967,Madison,0,1,Huntsville
+1967,Jefferson,0,0,Birmingham
+1967,Sumter,0,0,Bellamy-Coatopa Communities
+1967,Morgan-Madison,2,27,Talucah-NW Laceys Spring-NW Gurley
+1967,Baldwin,0,0,Bon Secour-Miflin-Josephine
+1967,Monroe,0,0,Frisco City
+1967,Madison,0,7,Huntsville-Bailey Cove-Big Cove
+1967,Calhoun,0,2,Anniston
+1967,Mobile,0,0,7 SE Bayou La Batre
+1967,Baldwin,0,1,2.7 E Gulf Shores-Magnolia Springs
+1967,Colbert-Lawrence,0,3,E Colbert Heights-N Leighton-3 N Town Creek
+1967,Lauderdale,0,1,6 W Florence-Shoals Creek
+1967,Mobile,0,0,2 SW Mobile
+1967,Franklin,0,0,Red Bay
+1967,Franklin,0,0,Red Bay
+1967,Talladega,0,0,2.5 S Talladega-Grasmere Community-2.5 NE Waldo
+1967,Jefferson,1,25,West End-Homewood
+1967,Calhoun,0,0,Anniston
+1967,Chilton,0,4,Maplesville
+1967,St. Clair,0,0,5 NE Ashville
+1967,Perry,0,0,1.7 SW Uniontown-1 E Uniontown
+1967,Walker-Jefferson,2,25,Sumiton-Rocky Hollow-Dilworth-Empire-N Warrior
+1967,Walker,0,1,Farmstead Community
+1967,Pickens,0,0,Stansel Community
+1968,Shelby,0,2,5 W Calera-1 N Calera
+1968,Coosa-Chilton,1,24,9 SW Clanton-3 N Rockford
+1968,Choctaw,0,2,Needham-NE Land
+1968,Mobile-Baldwin-Escambia,0,18,8 NW Mobile-Saraland-Bay Minette-Canoe-
+1968,Lawrence,0,0,Loosier-Hatton
+1968,Escambia,0,0,Huxford
+1968,Colbert-Lauderdale,0,0,Sheffield-Florence
+1968,Marshall,0,0,Albertville-4.1 ENE Albertville
+1968,Colbert,0,0,Littleville-Muscle Shoals
+1968,Barbour-Dale,0,0,Ariton - 1 NW Blue Springs
+1969,Etowah-Calhoun,0,2,Ohatchee-Near Gadsden
+1969,Baldwin,0,0,Near Spanish Fort
+1969,Mobile,0,0,Dog River
+1969,Baldwin,0,0,5 E Spanish Fort
+1969,Washington,0,0,Between Leroy-Wagerville
+1969,Cullman,0,0,Glencoe
+1969,Bullock,0,0,Smuteye
+1969,Crenshaw,0,0,2.7 SE Brantley-7.5 E Brantley
+1969,Pike,0,0,10 S Troy-Banks
+1969,Jefferson,0,0,Birmingham
+1969,Montgomery-Bullock-Butler-Crenshaw,2,14,Greenville-Panola-Fitzpatrick
+1969,Pike,0,0,Mossy Grove-3.6 SE Troy
+1970,Morgan,0,0,NE Priceville
+1970,Clarke,0,0,Southwest of Grove Hill
+1970,Cullman,0,0,Good Hope-Beach Grove
+1970,Baldwin,0,0,Daphne
+1970,Randolph,0,2,Tin Shop - 5 SW Wedowee
+1970,Shelby,0,0,NNE Vincent - 4 NE Vincent
+1970,Madison,0,0,New Sharon-4.3 ENE Hazel Green
+1970,Madison,0,0,Huntsville
+1970,Dallas,0,0,1 NNE Plantersville-6.3 NE Plantersville
+1970,Etowah,0,0,2 WSW Glencoe-Hokes Bluff
+1970,Conecuh,0,0,9 W Castleberry
+1970,Chambers,2,14,Little Shawmut-Plant City
+1970,Hale,0,0,Greensboro
+1970,Washington,0,0,NE Chatom
+1971,Monroe,0,1,Uriah
+1971,Coffee,0,0,Danley
+1971,Baldwin,0,0,4 E Fairhope
+1971,Baldwin,0,0,2 NW Perdido-4.2 NW Atmore
+1971,Washington,0,0,Tibbie
+1971,Washington,0,0,1 N Tibbie-6.7 SE Chatom
+1971,Etowah,0,0,Youngs Chapel
+1971,Monroe-Butler,0,0,Old Texas-Greenville
+1971,Pike,0,0,2 W Troy Airport-1 W Troy Aiport
+1971,Jefferson,0,2,1 S Clay-Goodner Mountain
+1971,Pike,0,0,Brundidge
+1971,Clarke,0,0,Tallahatta Springs-Thomasville
+1971,Pike-Barbour,0,0,W Springhill-N Brundidge-Louisville
+1971,Houston,0,0,Dothan
+1971,Chambers-Lee,0,0,5 SW Waverly-Waverly
+1971,Randolph,0,0,Roanoke
+1971,Jefferson,0,3,East Lake-Roebuck
+1971,Greene,0,0,3 SW Eutaw-1 E Eutaw
+1971,Mobile,0,0,Wilmer-Kushla
+1971,Marion-Franklin,1,13,7 S Hamilton-Sugar Bend-Bear Creek-Dime
+1971,Cleburne,0,0,Heflin
+1971,Blount,0,0,Cleveland-Nectar
+1972,Escambia,0,3,Dixonville
+1972,Baldwin,0,0,Rosinton
+1972,Jefferson,0,0,Forestdale-Gardendale-Morris-Kimberly
+1972,Pike,0,0,Troy
+1972,Marshall,0,2,Arab
+1972,Escambia,0,0,Atmore
+1972,Dallas,0,0,8 WNW Minter-8 NW Minter
+1972,Mobile,0,0,Rabbit Creek
+1972,Escambia,0,0,Atmore-Near Canoe
+1972,Washington,0,0,Wagerville-Near Leroy
+1972,Barbour-Henry,0,2,2 E Clopton-Edwin-SE Barbour Co
+1972,Coffee-Dale,4,88,3 E Enterprise-Fort Rucker-Lake Tholocco
+1972,Chambers,0,0,Ridge Grove-4.5 NE Waverly
+1972,Marengo,0,0,Linden
+1973,Baldwin,0,0,Near Loxley
+1973,Dale,0,14,Fort Rucker-Ozark
+1973,Henry,0,2,W Headland-S Bethlehem
+1973,DeKalb,0,1,Crossville
+1973,Jefferson,0,0,Gardendale
+1973,Coffee-Dale,0,11,W Enterprise-N Coppinville-Fort Rucker
+1973,Blount,0,0,Hayden
+1973,Talladega,0,1,12 SE Sylacauga
+1973,Mobile,0,1,Prospect Heights-Theodore
+1973,Morgan,0,3,4.8 SE Lacon-1.6 E Eva
+1973,Madison,0,42,Huntsville Airport-Huntsville
+1973,Cullman,0,0,15 SW Cullman
+1973,Marion,0,5,Guin-5.4 NE Guin
+1973,Lamar,0,0,5.8 SE Arley
+1973,Winston,0,0,Arley-Addison
+1973,Chambers,0,0,Springdale
+1973,Crenshaw,0,0,Luverne
+1973,Mobile,0,0,Tillman's Corner
+1973,Mobile,0,0,Prichard
+1973,Butler,0,0,Near McKenzie
+1973,Jefferson-St. Clair-Etowah,1,44,NE Tarrant-Center Point-Springville-St Clair Springs-Ashville-Gadsden
+1973,Hale-Bibb-Perry-Shelby-Clay-Cleburne-Talladega,7,199,Greensboro-Brent-Centreville-Montevallo-Mt Cheaha
+1973,St. Clair,0,0,Burnwell-6 SSW Ashville
+1973,Jefferson,0,3,Bessemer
+1973,Jackson,0,4,Section-Dutton
+1973,Cullman-Marshall,0,3,Hulaco-Arab-Eddy
+1973,Dale-Houston,0,0,Midland City-Kelly Springs
+1973,Pike,0,0,Near Goshen
+1973,Jefferson,0,4,Near Pinson
+1973,DeKalb,0,19,Fort Payne-Lookout Mountain
+1973,Jackson-DeKalb,0,9,S Scottsboro-Section-Powell Crossroads
+1973,Madison,0,10,Hazel Green
+1973,Monroe,0,2,Megargel-Frisco City
+1973,Marshall-DeKalb,2,12,Guntersville-Geraldine-S Rainsville
+1973,Winston-Walker,0,0,William B Bankhead National Forest
+1973,Marengo,0,0,Near Demopolis
+1973,Shelby-Talladega,0,0,Wilsonville-Hutchinson-Camp Brownie
+1973,Coffee,0,14,Elba
+1973,St. Clair,0,0,Pell City
+1973,Shelby,0,5,Helena-Pelham
+1973,Hale,0,0,Cedarville-4.9 SE Greensboro
+1973,Hale,0,0,1.9 SW Havana-2.5 NE Havana
+1973,Sumter,0,0,Livingston
+1973,Chilton-Coosa,0,0,Mountain Creek-Near Coosa River
+1973,Marshall,0,0,Albertville
+1974,Pike,0,0,3.8 W Brundidge-5.5 ENE Banks
+1974,Pike,0,1,8 N Troy
+1974,Covington,0,0,Smyrna
+1974,Escambia,0,0,Huxford
+1974,Jefferson,0,0,Birmingham
+1974,Blount-Marshall,0,1,Cleveland-Albertville
+1974,Baldwin,0,0,Daphne
+1974,Mobile,0,0,Near Big Creek Lake
+1974,Geneva,0,0,8 S Samson
+1974,Monroe,0,0,1 N Beatrice
+1974,Colbert,0,0,N Cherokee
+1974,Marshall,0,0,Mt Hebron
+1974,Perry,0,0,Marion
+1974,Henry,0,0,Tembleton-Haleburg
+1974,Houston,0,0,Near Columbia
+1974,Dale,0,0,Near Midland City
+1974,Morgan-Limestone-Madison-Jackson,2,7,7 SE Decatur-Redstone Arsenal-NW Princeton
+1974,Lamar-Marion-Winston-Lawrence-Morgan,28,272,15 NNE Columbus-6N Vernon-Guin-Delmar-NW Danville-6 ESE Decatur
+1974,Limestone-Madison,16,190,8 SSW Athens-Vanntown
+1974,Cherokee,0,9,6 SW Centre-Alexis
+1974,Pickens-Tuscaloosa-Fayette-Walker-Cullman,3,178,Aliceville-Jasper-5.1 NW Holly Pond
+1974,Franklin,0,4,2 NW Phil Campbell-SE Oak Grove
+1974,Lawrence-Limestone-Morgan-Madison,28,267,Mt Hope-3 NW Moulton-ESE Harvest
+1974,Cleburne,0,0,7.5 NW Ranburne-6.3 SE Fruithurst
+1974,Calhoun,0,0,12 N Anniston
+1974,Jefferson,0,0,Concord
+1974,Chambers,0,0,2.5 NW Lanett
+1974,Madison,1,6,Huntsville
+1974,Blount,0,11,Hayden-Locust Fork-Oneonta
+1974,Tuscaloosa,0,6,Moores Bridge-Samantha
+1974,Tuscaloosa,0,0,10 WNW Tuscaloosa
+1974,Baldwin,0,0,Stockton
+1974,Houston,0,0,Dothan
+1974,Baldwin,0,0,Pine Grove
+1974,Houston,0,0,6 SE Dothan
+1974,Fayette,0,0,Southern Fayette Co.
+1974,Lamar,0,0,8W Vernon
+1974,Randolph,1,7,Rock Stand-Highway-Haywood-Moores-Bethal
+1974,Pike,0,0,Goshen
+1975,Baldwin,0,0,Lillian
+1975,Mobile,0,1,Irvington
+1975,Coffee,0,0,Mt Pleasant
+1975,Houston,0,0,Dothan
+1975,Conecuh,0,0,15 E Evergreen
+1975,Marshall,0,0,Boaz
+1975,Escambia,0,0,Atmore
+1975,Escambia,0,0,Porch
+1975,Tallapoosa,0,0,Dadeville-Camp Hill
+1975,Blount,0,3,5.8 NNE Blountsville-9 NE Blountsville
+1975,Tuscaloosa,0,0,Tuscaloosa
+1975,Covington,0,0,Lockhart-Florala
+1975,Baldwin,0,0,Daphne
+1975,Chilton,0,0,Jemison
+1975,Tuscaloosa,0,0,Tuscaloosa
+1975,Russell,0,0,Hatchechubbee
+1975,Calhoun,0,0,Anniston
+1975,Tuscaloosa,1,49,Taylorville-Holt
+1975,Cullman,0,1,Jones Chapel
+1975,Walker,0,0,20 NE Jasper
+1975,Baldwin,0,0,Pine Grove
+1975,Baldwin,0,0,6 SW Bay Minette
+1975,Cleburne,0,1,Ranburne
+1975,Lee,0,0,Opelika-Salem
+1975,Macon,0,9,Cotton Valley
+1975,Montgomery,0,0,Montgomery
+1975,Autauga,0,0,Prattville
+1975,Baldwin,0,0,Near Loxley
+1975,St. Clair,1,60,Pell City-Ragland
+1975,Shelby,0,14,Pelham
+1975,Jefferson,0,0,Hoover
+1975,Mobile,0,0,Citronelle
+1975,Jefferson,0,4,Jonestown-Bethel-Kilgore-Bessie
+1975,Marengo,0,0,Faunsdale
+1975,Tuscaloosa,0,0,Brookwood
+1976,Jefferson,0,0,Near Morris
+1976,Marshall,0,0,Claysville
+1976,Marshall,0,0,Guntersville Lake
+1976,Jefferson,0,0,Partridge
+1976,Covington,0,0,Straughn-Antioch
+1976,Wilcox,0,0,Catherine
+1976,Calhoun,0,0,Bynum Area
+1976,St. Clair,0,0,Springville
+1976,Coffee,0,0,Enterprise
+1976,Etowah,0,0,Attalla
+1976,Blount,0,11,Cleveland-Snead
+1976,Blount,0,0,Locust Fork
+1976,Cullman,0,17,Simcoe-Baileyton
+1976,Madison,0,0,4.5 SW New Market-2.4 SE New Market
+1976,Madison,0,0,Near Chase
+1976,Madison,0,0,Chase
+1976,Winston,0,6,4 SE Arley
+1976,Madison,0,0,1.7 S Toney-6.7 NW Hazelgreen
+1976,Pickens,0,0,4 N Gordo
+1976,Lamar,0,1,Hinson Springs Community
+1976,Lauderdale,0,2,SW Anderson
+1976,Washington,0,0,Fruitdale
+1976,Coffee,0,0,New Brockton
+1976,Chilton,0,0,Oak Grove
+1976,Dallas,0,1,5 E Selma-Hardy Circle
+1976,Elmore,0,15,2.4 SW Eclectic-2.5 NE Eclectic
+1976,Autauga,0,4,Jones-Poses Crossroads-Alpine
+1976,Marengo,0,1,1.4 NW Jefferson-1 NE Faunsdale
+1976,Sumter,0,2,Gainesville
+1976,Jefferson,0,1,Birmingham
+1977,Mobile,0,0,1 N Mobile
+1977,Baldwin,0,0,Foley-Robertsdale-Loxley
+1977,Tuscaloosa,0,0,Windham Springs
+1977,Tuscaloosa,0,0,Cottondale-Holt
+1977,Wilcox,0,0,Near Camden
+1977,Madison,0,0,Huntsville
+1977,Jefferson,0,0,Near Warrior
+1977,Etowah,0,0,Near Gadsden-6 NE Gadsden
+1977,Mobile,0,0,Saraland
+1977,Geneva,0,0,Geneva
+1977,Jefferson,22,130,McDonald Chapel-Smithfield-Roebuck
+1977,Etowah,0,4,3 S Southside-3 E Southside
+1977,St. Clair,1,0,0.5 SE Ashville-7.4 NE Ashville
+1977,St. Clair,0,0,Springville-3.3 E Springville
+1977,St. Clair,0,0,Ragland
+1977,Jackson,0,1,2 S Section-1.4 N Dutton
+1977,Cullman,0,3,Hanceville-Center Hill
+1977,DeKalb,0,1,Fishers Crossroads
+1977,DeKalb,0,2,4 SW Geraldine-5.2 NE Geraldine
+1977,Autauga-Elmore,0,2,Lake Jordan-Deatville
+1977,Greene,0,1,Eutaw
+1978,Walker,0,1,Sumiton
+1978,Tuscaloosa,0,0,Moody Swamp
+1978,Tuscaloosa,0,0,Brownville
+1978,Pickens,0,0,8 N Gordo
+1978,Mobile,0,0,Near Mobile
+1978,Baldwin,0,0,Near Foley
+1978,Lee,0,0,17 SE Opelika
+1978,Mobile,0,0,Tillmans Corner
+1978,Mobile,0,0,5 NW Bates Field-6NNW Bates Field
+1978,Marshall,0,0,Camp Cha-la-kee-Monsanto
+1978,Morgan,0,11,2.5 SW Neel-Pumpkin Center-0.75 NE Neel
+1978,Covington,0,0,5 S Opp
+1978,Russell,0,4,W Phenix City
+1978,Dallas,0,0,Selma
+1978,Jefferson,0,0,Bayview
+1978,Montgomery,0,3,Near Montgomery
+1978,Coffee,0,0,10 N Elba
+1978,Coosa,0,0,Weogufka
+1978,Monroe,0,30,Limestone-Peterman
+1978,Lowndes,0,0,Lowndesboro
+1978,Clay,0,0,Mellow Valley
+1978,Lawrence,0,0,2 E Town Creek-Courtland
+1979,Elmore-Tallapoosa,0,2,Kowaliga-Lake Martin-Bay Pines-New Site
+1979,Montgomery-Elmore,0,20,Montgomery
+1979,Butler-Lowndes,0,12,Near Greenville-Fort Deposit-Calhoun-Letohatchie
+1979,Dallas,0,0,Pleasant Hill
+1979,Conecuh,0,0,Evergreen Airport
+1979,Conecuh,0,0,Near Castleberry
+1979,Clarke,0,2,Salitpa-Bashi
+1979,Jefferson,0,0,Birmingham
+1979,Perry,0,2,5 S Marion
+1979,Clarke,0,0,Near Grove Hill
+1979,Mobile,0,0,S Mobile
+1979,Montgomery,0,0,25 SW Montgomery
+1979,Covington,0,4,W Red Level-6.2 Red Level
+1979,Houston,0,0,Wicksburg
+1979,Baldwin,0,0,6 SE Fairhope
+1979,Jefferson,0,1,Birmingham-Pinson
+1979,Fayette,0,0,Belk
+1979,Elmore,0,0,Near Holtville
+1979,Mobile,0,0,Mobile
+1979,Jefferson,0,0,Near Birmingham
+1979,Lauderdale,0,1,Florence
+1979,Dallas,0,0,Selma
+1979,Mobile,0,0,Prichard
+1980,Baldwin,0,0,Gulf Shores
+1980,Houston,0,0,Dothan
+1980,Dallas,0,0,Selma
+1980,Etowah,0,0,Southside
+1980,Clay,0,0,3 NW Lineville - 0.75 SSW Barfield
+1980,Barbour,0,1,Clio-Louisville-Clayton
+1980,Covington-Coffee,0,0,3 S Opp-W New Brockton
+1980,Covington-Crenshaw,0,0,Red Level-Gant-Dozier
+1980,Mobile,0,0,Theodore
+1980,Baldwin,0,0,2.4 NNE� Gulf Shores - 4.2 SE Elberta
+1980,Baldwin,0,0,Hubbard's Landing - 4.6 N Hubbard's Landing
+1980,Mobile,0,0,Bayou La Batre
+1980,Etowah,0,0,1 NW Egypt-Abby Hill-3.8 S Sardis City
+1980,Jefferson,0,0,5 S Bessemer - 2.7 NE Bessemer
+1980,Lee,0,13,2 SE Auburn - 6.2 NE Opelika
+1980,Mobile,0,0,Mobile
+1980,Baldwin,0,0,8 W Bay Minette
+1980,Mobile,0,0,Mobile
+1980,Mobile,0,0,1.2 SW Mt Vernon
+1980,Mobile,0,0,Georgetown
+1980,Geneva,0,1,Earlytown-Slocomb
+1980,Talladega,0,6,Sylacauga - 3.8 NE Sylacauga
+1980,Jefferson,0,0,4 SW Oak Grove
+1980,Clarke,0,0,Whatley
+1980,Clarke,0,0,Grove Hill
+1980,Houston,0,5,Wicksburg-SW Dothan
+1980,Bibb,0,0,Garey Springs-Six Mile
+1981,Baldwin,0,0,Spanish Fort
+1981,Fayette-Walker,0,0,5.9 SW Carbon Hill - 1.9 NE carbon Hill
+1981,Marshall,0,0,Near Guntersville
+1981,Russell,2,23,Hurtsboro
+1981,Clay,0,0,4 S Mellow Valley
+1981,Dallas,0,0,Selma
+1981,Dallas,0,0,Safford
+1981,Baldwin,0,0,8 N Loxley
+1981,Clay,0,0,3.7 W Ashland - 5 S Cragford
+1981,Bullock,0,0,1.2 SW Hurtsboro
+1981,Montgomery,0,0,Mathews-Cecil Areas
+1981,Pike,0,0,Livingston Cross Roads
+1981,Houston,0,5,6.5 S Dothan- 1.5 ENE Dothan
+1981,Baldwin,0,62,W Bay Minette - Bay Minette
+1982,Elmore,0,0,Speigner
+1982,Jackson,0,0,Paint Rock Area
+1982,Jefferson,0,0,Tuscaloosa-Jefferson County line-SW North Johns
+1982,Jefferson,0,1,Fairfield-Ensley
+1982,Hale,0,0,Moundville
+1982,Baldwin,0,0,Gulf Shores
+1982,Autauga-Elmore,0,0,Boone Chapel-Holtville
+1982,Lamar-Marion,0,0,Near Beaverton-Near Winfield
+1982,Baldwin,0,0,Elberta
+1982,Mobile,0,0,Dauphin Island
+1982,Mobile,0,0,Dauphin Island
+1982,Lawrence,0,0,2 N Courtland
+1982,Lauderdale-Limestone-Madison,0,0,W Good Springs-Elkmont-Thatch-W Hazel Green
+1982,Calhoun,0,0,Alexandria-Weaver-Fourmile
+1982,Houston,0,0,Cowarts
+1982,Monroe,0,0,Monroeville
+1982,Marshall,0,1,NE Arab-4 NE Arab
+1982,Cullman,0,0,Simcoe
+1982,Chilton,0,4,West Clanton
+1982,Autauga,0,0,3.4 WSW Marbury-2.2 WNW Marbury
+1982,Autauga-Chilton,0,12,Lily Hill Community-Verbena
+1982,Chilton-Coosa,0,0,Verbena-1 SW Kelly's Crossroads
+1983,Covington,0,1,3 S Loango-River Falls-SE Gantt
+1983,Tuscaloosa,0,0,6 NW Northport
+1983,Pickens,0,0,6.8 SW Millport-Liberty-3 SW Millport
+1983,Mobile,0,0,Citronelle
+1983,Dallas,1,19,3 W Selma-6 NE Valley Grande
+1983,Russell,0,0,Twin Springs Area-13 NNE Eufaula
+1983,Calhoun,2,51,2.3 S Oxford-2.3 NE Oxford
+1983,Chilton,0,0,Clanton
+1983,Clarke,0,0,3 SW Grove Hill-Whatley
+1983,Bibb-Shelby,0,0,Eoline-West Blocton-Marvel
+1983,Hale-Bibb,0,0,12 NE Greensboro-Eoline
+1983,Sumter,0,0,York
+1983,Tuscaloosa,0,0,9 N Northport
+1983,Marengo,0,0,Hugo
+1983,Walker,0,0,Near Curry
+1983,Wilcox,0,2,1.6 SW Camden-2.2 NE Camden
+1983,Fayette,0,0,7.4 NW Fayette-10.1 N Fayette
+1983,Escambia,0,1,1.4 S Riverview-1.4 SE Riverview
+1983,Baldwin,0,0,Robertsdale
+1983,Cherokee,0,0,Bomar Community-Near Centre
+1983,Tuscaloosa,0,0,Antioch
+1983,Blount,0,0,Near Oneonta
+1983,Cullman,0,19,SW Phelan-Bolte-Berlin-Birdsong-Baileyton
+1983,Clarke,0,0,Fulton
+1983,Hale,0,0,Near Havana-Akron
+1983,Bibb,0,0,Near Woodstock
+1983,Baldwin,0,0,Robertsdale
+1983,Etowah,0,1,3.4 SW Southside-Southside
+1983,DeKalb,0,3,W Fort Payne-Fort Payne
+1983,Marshall,0,2,N Boaz-2.4 NE Boaz
+1983,Clarke,0,0,Near Salitpa-4.3 SE Fulton
+1983,Cullman-Morgan,0,0,Corinth-SW Massey
+1983,Coffee,0,1,New Brockton
+1983,Macon,0,0,2.4 SW Franklin- 1.4 NW Moton Field.
+1983,Cullman,0,0,2.4 WSW West Point
+1983,Cullman,0,0,Near Gold Ridge
+1983,Elmore,0,0,E of Wetumpka
+1983,Baldwin,0,0,2 E Fairhope
+1983,Mobile,0,0,Theodore
+1983,Butler,0,0,W Georgiana
+1983,Marshall,0,2,2.8 SW Albertville-1.2 SSW Albertville
+1983,Cullman,0,0,White City
+1983,Cullman,0,0,Hanceville
+1983,Walker-Winston,0,0,Manchester-Smith Lake
+1983,Mobile,0,1,Near USA-1 SSE Eight Mile
+1984,Randolph,0,0,Woodland-Bethel
+1984,Clay,0,0,Harkins Crossroads-NE Lineville
+1984,Morgan,0,0,10 E Hartselle
+1984,Pickens-Tuscaloosa,0,0,SW Elrod-Northport
+1984,Lamar,0,0,Hightogy
+1984,Conecuh,0,0,Range-Lenox
+1984,Covington,0,0,Opp
+1984,Marshall,0,0,Guntersville
+1984,Covington,0,0,Florala
+1984,Talladega,0,0,Sycamore
+1984,Jefferson,0,2,Jefferson-Walker County Line
+1984,Lee,0,1,Smiths
+1984,Macon,0,0,Pleasant Hill-Little Texas
+1984,Cleburne,0,0,S Hightower-SE Ranburne
+1984,Randolph,0,0,Morrisons Crossroads-Newell-Pine Hill
+1984,Cleburne,0,0,Heflin-SW Edwardsville
+1984,Cleburne,0,0,Taylor-Beason Mill-Arbacoochee
+1984,Clay-Randolph,0,2,Union-Folsom
+1984,Dale,0,0,Midland City
+1984,Dale,0,0,SE Daleville
+1984,Dallas,0,0,Selma
+1984,Shelby-Talladega,0,0,W Childersburg-Winterboro
+1984,Shelby,0,0,Vincent
+1984,Sumter,0,0,6 S York
+1984,Henry,0,0,Lake Eufaula
+1984,Macon,0,0,S Milstead
+1984,Montgomery-Elmore,5,37,Montgomery area
+1984,Limestone,0,0,Clements High School
+1984,Jefferson,0,0,Fultondale
+1984,Chambers,0,0,Waverly-Moorefield
+1984,Montgomery,0,0,Montgomery Area
+1984,Bibb,0,0,Brent-Centreville
+1984,Tallapoosa,0,0,Reeltown
+1984,Bibb,0,0,Brent Area
+1984,Jefferson,0,0,Cahaba Heights
+1984,Fayette,0,0,NE Fayette County
+1984,Clarke,0,0,Jackson Area
+1984,Washington,0,0,1.5 SSW Saint Stephens-1 E Saint Stephens
+1984,Houston,0,0,Between Ashford & Pansey
+1984,Dale,0,14,Fort Rucker-Ozark
+1984,Coffee,0,4,6.9 SW Ariton
+1984,Hale,0,0,Greensboro
+1985,Barbour,0,0,Eufaula
+1985,Baldwin,0,0,Orange Beach
+1985,Escambia,0,0,Flomaton
+1985,Covington,0,0,Florala
+1985,Conecuh,0,4,London-Castleberry-Fairview
+1985,Washington,0,0,Wagarville-Leroy
+1985,Baldwin,0,0,Loxley
+1985,Etowah,0,0,W Attalla
+1985,Madison,0,0,3 E Madison-1 SE Jeff
+1985,Cullman,0,0,Colony-3 ESE Hanceville
+1985,Madison,0,0,Redstome Arsenal-Monrovia-Jeff
+1985,Clay,0,0,Barfield
+1985,Jefferson,0,0,Labuco
+1985,Jackson,0,0,Section
+1985,Cullman,0,0,3 N Hanceville-1 E Berlin
+1985,Lauderdale,0,0,12 NW Florence
+1985,Cullman-Morgan,0,6,3 W Hanceville-Valhermoso Springs
+1985,Cullman,0,0,Wheat
+1985,Jefferson,0,0,4 E Birmingham
+1985,Cullman,0,0,Cold Springs
+1985,Walker,0,0,2 NW Sumiton
+1985,Walker-Jefferson,0,0,West Jefferson-3 SE Dora
+1985,Jefferson,0,0,Oak Grove-Alliance
+1985,Morgan-Limestone,0,2,Danville-Salem
+1985,Colbert,0,2,Spring Valley-Muscle Shoals
+1985,Lawrence,0,0,5 SE Moulton
+1985,Walker,0,5,Jasper
+1985,Walker,1,1,Parrish
+1985,Cullman,0,0,Good Hope
+1985,Baldwin,0,0,Daphne
+1985,Clay,0,0,12 SE Ashland
+1985,Baldwin,0,0,Fort Morgan
+1985,Lamar,0,0,Near Military Grove Church-Moscow
+1985,Madison,0,0,Huntsville
+1985,Talladega-Calhoun,0,5,Oxford area
+1985,St. Clair-Talladega,0,0,Logan Martin Dam-Alpine
+1985,Blount,0,0,Near Locust Fork
+1985,Etowah,0,1,Union-Sardis City-Smith Chapel
+1985,Marshall,0,5,Albertville
+1985,Cullman,0,0,Goldridge-Etha
+1985,Baldwin,0,0,Loxley
+1985,Autauga,0,0,Prattville
+1986,Coffee-Dale,0,2,2 SW Enterprise-Ozark
+1986,Pike,0,1,2.0 S Troy-Banks
+1986,Montgomery-Macon,0,2,Mathews-Chessom
+1986,Barbour-Coffee-Dale,0,4,Elamville-Clio-Clayton
+1986,Madison,0,0,3 NW Owens Crossroads
+1986,Lauderdale,0,0,2.3 NW Killen
+1986,Winston-Cullman,0,0,Jones Chapel
+1986,Blount,0,0,Remlap
+1986,Marion,0,0,Brilliant
+1986,Cullman-Marshall,0,5,Near Arab
+1986,Marion,0,0,1.0 WNW Winfield-7.6 NW Brilliant
+1986,Marion,0,0,Winfield
+1986,Lamar,0,0,2.0 SE Millport-3.0 NNW Kennedy
+1986,Pickens,2,0,4.0 NW Aliceville-8.5 W Reform
+1987,Mobile,0,0,2 E Fort Morgan
+1987,Mobile,0,0,Irvington
+1987,Fayette,0,0,1.0 N Wayside
+1987,Fayette,0,0,Berry
+1987,Fayette,0,0,4.0 N Fayette
+1987,Cleburne,0,0,8.5 SE Heflin
+1987,Winston,1,0,1.0 NE Double Springs
+1988,Walker,0,0,9.0 N Jasper
+1988,Tuscaloosa,0,8,Tuscaloosa
+1988,Washington,0,0,Millry-St Stephens
+1988,Lauderdale,0,0,12 NW Florence
+1988,Franklin-Colbert-Lawrence,0,16,Tuscumbia-4 N Town Creek
+1988,Tallapoosa,0,0,7.0 SE Dadeville
+1988,Tallapoosa,0,0,Dadeville
+1988,Dale,0,0,Fort Rucker-Lowe Field
+1988,Marengo,0,0,2.0 SW Linden-1.0 N Linden
+1988,Pickens,0,0,Pickensville
+1988,Jackson-DeKalb,0,0,3 SW Stevenson-Cartersville
+1988,Houston,0,0,Madrid
+1988,Marengo,0,0,Marengo
+1988,Clay,0,0,12.1 SE Ashland
+1988,Bibb-Shelby,0,0,Ashby-Montevallo
+1988,Cullman,0,35,Loretto-Cullman
+1989,Jackson,0,0,Stevenson
+1989,Randolph,0,0,2 E Roanoke
+1989,Madison,21,463,Huntsville
+1989,Clay,0,3,Mellow Valley Community
+1989,Houston,0,0,Dothan
+1989,Houston,0,0,Dothan
+1989,Baldwin,0,0,20 SE Bay Minette
+1989,Houston,0,0,2 NE Cottonwood
+1989,Geneva,0,0,3 SSE Fadette
+1989,Pike,0,0,Brundidge
+1989,Mobile,0,0,Belle Fontaine
+1989,Mobile,0,0,Dauphin Island
+1989,Baldwin,0,0,3 NW Lillian
+1989,Baldwin,0,10,Alabama Point-Orange Beach
+1989,Baldwin,0,0,Weeks Bay
+1989,Mobile,0,0,Mobile
+1989,Chambers-Randolph,0,0,7 W Lafayette-White Plains
+1989,Pike,0,0,5 S Brundidge
+1989,Talladega,0,2,Childersburg-Talladega
+1989,Jefferson,0,0,Mount Olive
+1989,Winston,0,0,1 N Haleyville
+1989,Marion,0,0,8 S Hamilton
+1989,Lamar,0,0,3 N Sulligent
+1990,Mobile,0,0,Mount Vernon
+1990,Marion,0,0,6.0 W Haleyville
+1990,Mobile,0,0,Coden
+1990,Baldwin,0,0,6 SW Magnolia Springs
+1990,Baldwin,0,0,Elsanor
+1990,Baldwin,0,0,Summerdale
+1990,Baldwin,0,0,Weeks Bay
+1990,Covington,0,10,Opp
+1990,Sumter,0,0,1 N Livingston
+1990,Clay,0,5,7 NW Ashland
+1990,Shelby,0,0,Helena/Pelham
+1990,St. Clair,0,11,Margaret
+1990,Jefferson,0,0,Trussville
+1990,Jefferson,0,15,6 N Birmingham-Fultondale
+1990,Jefferson,0,2,Mulga-Forestdale
+1990,Tuscaloosa,0,3,7 NNW Tuscaloosa
+1990,Tuscaloosa,0,0,Elrod
+1990,Pickens,0,0,4 SE Gordo
+1990,Crenshaw,0,28,6 NW Luverne-Fullers Crossroads
+1991,Baldwin,0,0,2 E Robertsdale
+1991,Baldwin,0,0,Robertsdale
+1991,Jefferson,0,0,Birmingham
+1991,Lawrence,0,4,5 W Moulton
+1991,Pickens,0,0,7.0 N Gordo
+1991,Monroe,0,0,Goodway
+1991,Russell,0,16,Ladonia
+1991,Talladega,5,13,Munford
+1991,Baldwin,0,0,Orange Beach
+1991,Clarke,0,0,2 N Thomasville
+1992,Baldwin,0,1,Bon Secour
+1992,Geneva,0,0,Coffee Springs
+1992,Cleburne,0,0,3.0 N Hollis Crossroads-7.0 N Hollis Crossroads
+1992,Tallapoosa-Randolph,0,10,13.0 ENE Alexander City-Wadley
+1992,DeKalb,0,4,Beaty Crossroads - Gann Crossroads
+1992,DeKalb,0,1,6ENE Geraldine
+1992,DeKalb,0,6,Crossville
+1992,Etowah-Dekalb,0,12,2.0 NE Sardis City
+1992,DeKalb,0,8,Rainsville - Sylvania
+1992,Madison,0,5,New Hope
+1992,Morgan,0,0,Eva
+1992,Walker,0,0,Oakman-Burrows Crossroads
+1992,Pickens,0,7,Ethelsville
+1992,Sumter,0,0,2.0 N Geiger-Panola
+1992,Houston,0,0,6 WSW Dothan
+1992,Geneva,0,0,Coffee Springs
+1992,Henry,0,0,Abbeville
+1992,Montgomery-Elmore,0,1,3.0 NE Montgomery-2.0 S Wetumpka
+1992,Lowndes,0,2,5.0 E Hayneville
+1992,Montgomery,0,0,11.0 SSE Montgomery
+1992,Dallas,0,0,4.5 E Stafford
+1992,Clarke,0,0,Carlton
+1992,Greene-Hale,3,7,5.0 SE Forkland-5.0 E Greensboro
+1992,Colbert,0,1,Muscle Shoals
+1993,Tuscaloosa,0,3,Brookwood-Kellerman
+1993,Cullman,0,0,12 SW Cullman
+1993,Madison,0,0,Huntsville Airport
+1993,Walker,0,0,Parrish
+1993,Walker,0,0,Townley
+1993,Lauderdale,0,0,Killen
+1993,Franklin,0,0,Russellville
+1993,Cherokee,0,5,Pine Grove-Tecumseh
+1994,Baldwin,0,0,Bay Minette
+1994,Blount,0,5,1.0 E Cleveland
+1994,Lee,0,0,10.0 S Opelika
+1994,Cherokee,0,0,Rock Run
+1994,Madison,0,2,Madison
+1994,Limestone,0,0,5 ESE Tanner
+1994,Lauderdale,0,3,Lexington
+1994,Limestone,0,0,2 NW Athens
+1994,St. Clair,0,0,Branchville
+1994,Sumter,0,0,3.0 S Geiger-Gainesville
+1994,Shelby,0,53,Helena-Pelham-Inverness
+1994,Tuscaloosa,0,0,15.0 NE Tuscaloosa
+1994,Blount,0,1,2.5 SW Nectar
+1994,Dekalb,0,20,3 E Grove Oak-Rainsville-Sylvania-Henagar
+1994,Marshall,0,30,Guntersville
+1994,St. Clair-Calhoun-Cherokee,22,150,1.0 SSW Ragland-5.0 NE Rock Run
+1994,Chambers,0,0,17.0 SW Lafayette-5.0 SSE Layfayette
+1994,Coffee,0,0,2 E Frisco
+1994,Covington,0,0,Onycha
+1995,Coffee,0,1,Jack
+1995,Houston,0,0,5 W Dothan
+1995,Henry,0,0,Haleburg
+1995,Houston,0,2,Dothan
+1995,Crenshaw,0,0,Saville
+1995,Crenshaw,0,0,Brantley
+1995,Covington,0,0,Gantt Lake
+1995,Butler,0,0,Georgiana
+1995,Conecuh,0,0,Evergreen
+1995,Escambia,0,0,4.5 N Brewton
+1995,Escambia,0,0,Near Bradley
+1995,Escambia,0,0,Near Brewton
+1995,Covington,0,0,5 SW Andalusia
+1995,Covington,0,0,Andalusia
+1995,Butler,0,0,Foster Flats
+1995,Lamar,0,0,6.0 E Detroit
+1995,Tuscaloosa,0,0,Elrod-Echola
+1995,Lauderdale,0,0,14 NE Florence
+1995,Limestone-Madison-Jackson,1,55,3 NW Athens-15 NW Scottsboro
+1995,Colbert,0,0,Near Muscle Shoals
+1995,Mobile,0,0,2 N Grand Bay
+1995,Talladega,0,1,2.0 NE Lincoln
+1995,Covington,0,0,4 WNW Opp
+1995,Mobile,0,0,7 NW Mobile
+1995,Escambia,0,0,Atmore
+1995,Baldwin,0,0,Loxley
+1995,Walker,0,0,Sumiton
+1995,Marion-Winston,0,17,5.0 SW Haleyville-Haleyville
+1995,Lamar,0,6,6.0 SW Vernon
+1995,Chambers,0,0,Lanett
+1995,Elmore,0,0,3.0 WSW Elmore
+1995,Morgan,0,0,Lacey's Spring
+1995,Cullman,0,0,Enon
+1995,Tuscaloosa,0,0,Samantha
+1995,Marshall-DeKalb,0,3,2 SSW Martling-1 SW Lakeview
+1995,Cullman-Marshall,6,130,3 WSW Joppa-5 SW Guntersville
+1995,Marion,0,0,6.0 E Hamilton
+1996,Tallapoosa,0,0,2.0 N Alexander City-4.0 N Alexander City
+1996,Chilton,0,0,3.0 SW Clanton-0.7 N Clanton
+1996,Crenshaw,0,0,SW Highland Home
+1996,Coosa,0,2,3.5 SW Stewartville-0.5 NE Stewartville
+1996,Marshall,0,0,Grant
+1996,Cleburne,0,0,2.0 S Heflin-3.0 SSE Heflin
+1996,Winston,0,0,4.0 N Addison-6.0 NNE Addison
+1996,Winston,0,0,8.0 NW Addison-6.0 NW Addison
+1996,Jefferson,0,0,Birmingham
+1996,Pickens,0,0,Aliceville
+1996,Elmore-Tallapoosa,0,0,1.0 NE Eclectic-1.0 N Jacksons Gap
+1996,Elmore,0,0,4.0 S Wetumpka
+1996,Lowndes-Montgomery,0,2,1.5 S Gordensville-3.0 W Dannelly Field
+1996,Tallapoosa,0,0,1.5 N Jacksons Gap-8.0 NE Jacksons Gap
+1996,Elmore-Coosa-Tallapoosa,0,0,7.0 NW Eclectic-12.0 S Alexander City
+1996,Monroe,0,5,Claiborne-Vredenburgh
+1996,Dallas,0,0,10.0 S Orrville-9.0 SSE Orrville
+1996,Clarke,0,0,Suggsville-Gosport
+1996,Clarke,0,15,Jackson Municipal Airport-Walker Springs
+1996,Clarke,0,1,Thomasville
+1996,Clarke,0,0,Near Coffeeville
+1996,Washington,0,0,Millry
+1996,Washington,0,0,Copeland
+1996,Jackson,0,2,ENE Pisgah
+1996,Montgomery,2,17,10.0 ESE Montgomery-12.5 E Montgomery
+1996,Montgomery,0,0,Montgomery
+1996,Montgomery,0,0,Montgomery
+1996,Montgomery,0,0,Montgomery
+1996,Dallas,4,40,1.0 SSW Marion Junction-7.0 NNE Selma
+1996,Perry,0,0,8.0 SW Marion-7.0 SW Marion
+1996,Monroe,0,0,Monroeville-Tunnel Springs
+1996,Mobile,1,3,Gulf Crest
+1996,Coffee,0,0,5 N Kinston
+1997,Dale,0,4,9 NW Dothan - Newton - 7.2 NW Dothan
+1997,Houston,0,5,11.6 W Dothan - Wicksburg - 8.7 WNW Dothan
+1997,Geneva,0,1,Eunola
+1997,Covington,0,0,1 S Opp
+1997,Mobile,0,0,Saraland
+1997,Houston,0,0,2 S Gordon - 2.7 SE Gordon
+1997,Houston,0,2,1.7 S Wicksburg - 1.3 SE Wicksburg
+1997,Dale,0,0,Daleville
+1997,Mobile,0,0,Wilmer
+1997,Butler,0,0,5 NW Greenville
+1997,Dale,0,0,Echo
+1997,Dale,0,0,Clayhatchee
+1997,Cullman,0,0,Holly Pond
+1997,Lee,0,0,Opelika
+1997,Baldwin,0,0,Orange Beach
+1997,Colbert,0,1,Leighton
+1997,Madison,0,0,Huntsville
+1997,Madison,0,0,Owens Crossroads
+1997,Madison,0,0,NW Owens Crossroads
+1997,Madison,0,1,Meridianville
+1997,Limestone,0,12,Athens
+1997,Limestone,0,0,Reid
+1997,DeKalb,0,10,Rainsville
+1997,Shelby,0,0,2.0 NW Maylene
+1997,Tuscaloosa,0,1,5.0 N Coker-5.5 NNE Coker
+1997,Tuscaloosa,1,10,5.0 S Tuscaloosa-8.0 ENE Tuscaloosa
+1997,Lawrence,0,0,S Moulton
+1997,Elmore,0,0,1.0 N Elmore-1.5 NNE Elmore
+1997,Henry,0,0,N Newville
+1997,Jackson,0,0,SE Stevenson
+1998,Geneva,0,0,4 NNE Geneva - 7 NNE Geneva
+1998,Coffee,0,0,New Brockton
+1998,Coffee,0,0,Enterprise
+1998,Geneva,0,3,Samson
+1998,Dale,0,0,Echo
+1998,Henry,0,0,Newville
+1998,Russell-Lee,0,0,12.0 W Phenix City-3.8 SE JC Meadows Crossroads
+1998,Elmore,0,0,2.2 NE Wetumpka-3.5 N Wetumpka
+1998,Bullock,0,0,5.9 S Union Springs-3.3 S Union Springs
+1998,Dale,0,0,Ozark
+1998,Bullock,0,0,11.1 SSW Union Springs-10 SW Union Springs
+1998,Lowndes,0,0,Letohatchee-0.9 S Hayneville
+1998,Pike,0,0,14.0 ESE Troy-12.3 E Troy
+1998,Crenshaw,0,0,Petrey
+1998,Crenshaw,0,0,Luverne
+1998,Pike,0,0,17.0 SE Troy-12.0 SE Troy
+1998,Crenshaw,0,0,Patsburg
+1998,Crenshaw-Pike,0,0,16.0 SW Troy-15.9 SW Troy
+1998,Covington,0,0,5 NE Andalusia
+1998,Covington,0,0,4 SW Opp
+1998,Baldwin,0,0,3 N Loxley
+1998,Baldwin,0,0,Gulf Shores
+1998,Geneva,0,0,4 SW Slocumb-6 S Slocumb
+1998,Pickens-Tuscaloosa,0,0,1.4 S Gordo-2.3 NE Holman
+1998,Pickens,0,0,1.7 NW Carrollton-1.2 NNE Carrollton
+1998,Madison,0,0,New Market
+1998,Madison,0,0,Toney
+1998,Houston,0,0,Ashford
+1998,Coffee,0,0,New Brockton
+1998,Dallas,0,0,Marion Junction
+1998,Chilton,0,0,3.4 SE Maplesville - 4.4 SE Maplesville
+1998,Calhoun,0,0,5.3 W Oxford-3.7 NW Oxford
+1998,Covington,0,0,Opp
+1998,Cherokee,0,0,0.3 S Centre-1.3 E Centre
+1998,Etowah,0,0,2.2 SW Reece City-0.6 N Reece City
+1998,Etowah,0,0,1.5 W Gallant - 1.8 W Attalla
+1998,Blount,0,0,6.0 NE Oneonta-8.1 NE Oneonta
+1998,Blount-Cullman,0,0,2.5 NNE Bangor-3.7 NE Bangor
+1998,Cullman,0,0,1.9 NE Arkadelphia - 0.5 NE Damascus
+1998,Cullman,0,0,4 WNW Arkadelphia - Wilburn- 1.4 NW Arkadelphia
+1998,Walker-Cullman,0,0,6.5 NW Sipsey-5.2 N Sipsey
+1998,Walker,0,0,2.6 NNW Jasper-4.6 NE Jasper
+1998,Walker,0,0,0.9 WNW Townley-1.3 NE Townley
+1998,Lamar,0,0,4.9 WSW Hightogy-Hightogy
+1998,St. Clair,2,12,2.3 NNE Moody-3.2 SE Wattsville
+1998,Dekalb,0,0,1 S Lake View - 1 NE Lake View
+1998,Tuscaloosa-Jefferson,32,259,10.0 NNW Brookwood-Pratt City
+1998,Pickens-Tuscaloosa,0,1,2.0 S Gordo-7.6 N Northport
+1998,Covington,0,0,Heath
+1998,Houston,0,0,Taylor
+1999,Mobile,0,0,2.2 SW Saraland-2.1 NW Saraland
+1999,Mobile,0,0,Near Langan Ball Park West Mobile
+1999,Baldwin,0,0,Point Clear
+1999,Baldwin,0,0,Gulf Shores
+1999,Baldwin,0,0,Fort Morgan
+1999,Elmore,0,0,2.0 W Kent
+1999,Elmore,0,0,2.0 W Kent
+1999,Autauga,0,0,2.9 NE Prattville-3.4 NE Prattville
+1999,Dekalb,0,0,Rainsville
+1999,Dekalb,0,0,1 NW Fyffe
+1999,Clarke,0,0,3.2 NW Thomasville- 4 N Thomasville
+1999,Covington,0,0,N Sanford-N Opp
+1999,Covington,0,0,1.3 SW Horn Hill-1.9 Se Horn Hill
+1999,Etowah,0,0,5.3 SW Southside-4.5 SSW Southside
+1999,Blount,0,1,2.0 SW Nectar-1.6 SW Nectar
+1999,Winston,0,0,3.5 SSW Double Springs
+1999,Lauderdale,0,0,4.2 NE Killen-6.1 NE Killen
+1999,Baldwin,0,0,Summerdale
+1999,Winston,0,0,3.8 WNW Double Springs-3.5 NW Double Springs
+1999,Fayette,0,0,14.1 NE Fayette-14.3 NE Fayette
+1999,Morgan,0,0,9 W Falkville
+1999,Colbert,0,0,S Muscle Shoals
+1999,Franklin,0,0,7 NW Russellville
+2000,Randolph,0,0,8.3 SE Wedowee-8.9 SE Wedowee
+2000,Macon,0,0,2.9 NE Shorter-3.6 NE Shorter
+2000,Autauga,0,0,3.2 SE Pine Level
+2000,Calhoun,0,0,1.0 SE Bynum-1.3 SE Bynum
+2000,Etowah-Cherokee,0,14,5.3 ENE Gadsden-3.4 SW Centre
+2000,St. Clair,0,2,5.5 SW Ashville-3.2 E Ashville
+2000,Perry,0,0,1.7 NW Suttle-1.4 N Suttle
+2000,Tuscaloosa,11,144,4.9 W Hull-2.9 ENE Cottondale
+2000,Limestone,0,0,S O'Neal-5 N Athens
+2000,Lawrence-Limestone,0,0,Courtland-Ripley
+2000,Houston-Dale,0,0,Wicksburg-Pinckard-Abbeville
+2000,Geneva,1,9,Devco-Bellwood
+2000,Mobile,0,0,Mobile Bates Field
+2000,Pike,0,0,4.4 NNE Troy-6.1 NE Troy
+2000,Hale,0,0,2.9 E Akron-3.4 E Akron
+2000,Baldwin,0,0,Elsanor
+2000,Baldwin,0,0,Fairhope
+2000,Baldwin,0,0,Fairhope
+2000,Baldwin,0,0,Foley
+2000,Mobile,0,2,5.3 SW Irvington-2.9 SW Irvington
+2000,Mobile,0,0,Mobile
+2000,Coffee,0,0,Enterprise
+2000,Coosa,0,0,2.7 SE Marble Valley-3.2 SSE Marble Valley
+2000,Chilton,0,0,1.7 S Jemison-1.6 SE Jemison
+2000,Jefferson,0,0,0.4 N Vestavia Hills-3.3 ESE Mountain Brook
+2000,Jefferson,0,0,3.2 NE Oak Grove-6.2 NE Oak Grove
+2000,Choctaw,0,0,Needham-Mt Sterling
+2000,Tuscaloosa-Jefferson,0,0,1.2 SW Kellerman-2.2 SSW Oak Grove
+2000,Fayette,0,1,7.8 NNE Bankston-10.3 NNE Bankston
+2000,Calhoun-Cleburne,1,6,2.9 ESE Piedmont-3.4 WSW Borden Springs
+2000,Jefferson,0,0,1.6 SW Forestdale- 2.7 NE Forestdale
+2000,Montgomery,0,0,1.8 SW Pike Road-1.4 SW Pike Road
+2000,Montgomery,0,0,4.2 ESE Snowdoun-7.5 ESE Snowdoun
+2000,Jefferson,0,0,1.2 E Hoover-2.2 E Hoover
+2000,Perry-Bibb,0,0,11.5 NE Heiberger-3.4 NE Lawley
+2000,Perry,0,0,5.9 W Heiberger-2.2 N Heiberger
+2000,Tuscaloosa,0,0,7.6 NE Northport-10.9 NE Northport
+2000,Tuscaloosa,0,0,1.5 N Fosters-2.5 NE Fosters
+2000,Bullock,0,0,1.0 NNW Fitzpatrick-1.7 NNE Fitzpatrick
+2000,Montgomery-Bullock,0,0,3.1 NNW Downing-3.1 SW Mitchell
+2000,Montgomery,0,0,1.5 SW Ada-10.1 NE Ada
+2000,Marengo,0,0,Dixons Mill-Surginer
+2000,Bullock,0,0,2.5 S Midway-2.8 SE Midway
+2000,Montgomery,0,1,6.0 SSW Montgomery
+2001,Elmore,0,0,0.3 E Kent
+2001,Dale,0,2,Ewell
+2001,Dale,0,25,2.2 SW Daleville-1 NE Daleville
+2001,Pike,0,0,3.9 S Spring Hill-0.7 S Brundidge
+2001,Pike,0,0,0.3 NW Ansley-0.4 NE Ansley
+2001,Covington,0,0,Rose Hill
+2001,Covington,0,0,River Falls
+2001,Escambia,0,0,Brewton
+2001,Butler,0,0,Garland
+2001,Butler,0,3,3.6 W McKenzie- 2 SE Georgiana
+2001,Clay-Randolph,0,0,4.1 NE Lineville-12.1 NW Wedowee
+2001,Butler,0,0,1.8 WSW Georgiana-2.3 N Georgiana
+2001,Conecuh,0,0,Evergreen
+2001,Calhoun,0,5,2.6 S Alexandria-1.8 W Jacksonville
+2001,Talladega,0,0,4.1 SE Winterboro-7.0 SE Talladega
+2001,Autauga,0,0,9.4 SW Pine Level-4.6 NW Pine Level
+2001,Talladega,0,15,3.6 W Sylacuaga-2.6 NW Sylacauga
+2001,St. Clair,0,2,0.5 SW Pell City-3.7 NE Pell City
+2001,Cherokee,2,4,2.7 SSW Sand Rock-5.5 NE Sand Rock
+2001,Dekalb,0,0,S Fyffe-SE Rainsville
+2001,Madison,0,0,4 SW New Hope-2 NW New Hope
+2001,Marshall,0,7,Union Grove
+2001,Jefferson-St. Clair,0,1,2.8 SW Argo-1.5 ENE St. Clair Springs
+2001,Blount-Etowah,0,22,2.9 SE Oneonta-1.0 N Altoona
+2001,Cullman,0,0,Goodhope
+2001,Choctaw,0,0,Toxey
+2001,Cullman,0,0,SW Vinemont-W Vinemont
+2001,Marengo,0,0,4.3 SE Myrtlewood-4.0 SE Myrtlewood
+2001,Tuscaloosa,0,0,6.1 E Abernant-6.3 E Abernant
+2001,Choctaw,0,0,Gilbertown
+2001,Hale,0,0,1.3 SW Cedarville-1.7 NW Cedarville
+2001,Lawrence-Morgan,0,2,6 N Five Points-SE Trinity
+2001,Choctaw,0,0,Butler
+2001,Tuscaloosa,0,0,5.8 SW Samantha-3.8 SW Samantha
+2001,Marion-Winston,0,13,8.4 NE Whitehouse-0.7 NE Haleyville
+2001,Hale,0,0,0.8 NE Moundville-0.6 NE Moundville
+2001,Pickens-Lamar-Fayette-Walker,2,1,5.7 SW Kennedy-1.0 S Carbon Hill
+2001,Baldwin,0,0,Spanish Fort
+2001,Perry,0,0,0.6 SW Uniontown-1.0 NNW Uniontown
+2001,Baldwin,0,0,Robertsdale
+2001,Baldwin,0,0,Foley
+2001,Marengo,0,0,3.6 NNE Dixons Mill-5.5 SW Hugo
+2001,Baldwin,0,0,Foley
+2001,Baldwin,0,0,Gulf Shores
+2001,Baldwin,0,0,Montrose
+2001,Baldwin,0,0,Fairhope
+2001,Talladega,0,0,3.0 WSW Lincoln-1.6 NNW Lincoln
+2001,Covington,0,0,3 S Libertyville-3 ESE Libertyville
+2001,Mobile,0,0,Mobile Bates Field
+2001,Blount,0,0,6.4 NW Oneonta-6.2 NW Oneonta
+2001,Jackson,0,0,Aspel
+2001,Covington,2,1,7.5 NNE Red Level-7.9 NNE Red Level
+2001,Montgomery,0,0,Montgomery
+2001,Madison,0,0,NW Huntsville
+2001,Montgomery,0,4,2.1 E Montgomery-4.0 ENE Montgomery
+2002,Henry,0,8,Headland-3 E Haleburg
+2002,Clarke,0,0,Walker Springs
+2002,Washington,0,0,Millry
+2002,Monroe,0,0,Perdue Hill
+2002,Washington,0,0,Leroy
+2002,Washington,0,0,Fruitdale
+2002,Monroe,0,0,Monroeville
+2002,Washington,0,0,Malcolm
+2002,Cherokee,1,4,3.4 SE Centre-12.3 E Centre
+2002,St. Clair,0,0,3.1 WNW Steele-1.3 N Steele
+2002,Tuscaloosa-Jefferson,0,3,3.2 NW Abernant-1.8 SSW Bessemer
+2002,Blount-Etowah,0,0,1.4 SW Allgood-7.4 SW Gallant
+2002,Walker,0,0,3.5 SW Dora-0.8 NE Dora
+2002,Fayette,0,0,4.6 ESE Berry-9.0 E Berry
+2002,Pickens,0,0,4.3 WSW Ethelsville-2.3 WSW Ethelsville
+2002,Fayette-Walker-Winston-Cullman,7,53,6.0 NNE Fayette-5.8 W Townley-7.6 SE Arley-1 SE Holly Pond
+2002,Pickens,0,0,2.5 NW Stafford-2.9 NE Stafford
+2002,Lamar,0,2,7.6 WSW Fernbank-1.5 NNW Fernbank
+2002,Fayette-Walker-Winston,4,38,5.6 NNW Fayette-4.5 SW Carbon Hill-2.5 ESE Arley
+2002,Henry,1,20,3 W Abbeville-3 NE Abbeville
+2002,Dale,0,3,2 N Echo-2 S Bertha
+2002,Baldwin,0,0,Barnwell
+2002,Butler,0,0,Georgiana
+2002,Conecuh,0,0,Lenox
+2002,Clarke,0,0,Bashi
+2002,Covington,0,0,Libertyville
+2002,Madison,0,0,NW Meridianville
+2002,Cullman,0,0,Baileyton
+2002,Mobile,0,0,Semmes
+2002,Baldwin,0,0,Gulf Shores
+2002,Baldwin,0,0,Gulf Shores
+2002,Mobile,0,0,5 W Bates Field
+2002,Madison,0,0,S Meridianville
+2002,Mobile,0,0,Theodore
+2002,St. Clair,0,0,7.9 ESE Springville-8.3 ESE Springville
+2002,Barbour,0,0,3.1 NNE Texasville-3.3 NE Texasville
+2002,Marshall,0,0,W Red Hill-WSW Albertville
+2003,Walker,0,0,1.2 ENE Oakman-2.1 NNE Parrish
+2003,Tuscaloosa,0,2,2.4 SSE Tuscaloosa-5.6 NNE Tuscaloosa
+2003,Mobile,0,0,Mobile
+2003,Montgomery,0,0,1.4 NNW Pintlala-2.1 WSW Hope Hull
+2003,Crenshaw,0,0,1.0 NE Honoraville-4.0 N Honoraville
+2003,Limestone,0,0,5 SW Cairo-2 SE Cairo
+2003,Lauderdale,0,0,3 E Rogersville-5 E Rogersville
+2003,Marengo,0,0,1.5 SE Myrtlewood
+2003,Randolph,0,0,1.6 SSW Wedowee-12 ENE Wedowee
+2003,Clay,0,0,0.3 N Lineville-0.7 NE Lineville
+2003,Clay,0,0,1.8 SSE Ashland-2.3 SE Ashland
+2003,Clay,0,0,6 NW Millerville-4.9 NW Millerville
+2003,St. Clair,0,0,4.1 ESE Moody-4.3 ESE Moody
+2003,Shelby-Talladega,0,0,2.4 SSE Wilsonville-7.4 SW Childersburg
+2003,Talladega,0,0,4.2 WSW Munford-1.3 SSE Munford
+2003,St. Clair,0,0,5.8 NW Pell City-1.4 NNW Pell City
+2003,Walker,0,0,4.2 WSW Townley-3.8 SW Townley
+2003,Lamar,0,0,2.9 N Vernon-3.0 NNE Vernon
+2003,Cullman,0,0,2 E West Point-2.1 E West Point
+2003,Dekalb,0,0,2 W Hammondville-Valley Head
+2003,Jackson,0,0,5 NE Hollywood-6 NE Hollywood
+2003,Jackson,0,0,Hollywood-3 NE Hollywood
+2003,Madison,0,0,Meridianville-1 E Meridianville
+2003,Madison,0,0,Madison-2 E Madison
+2003,Limestone,0,0,Shanghai-3 NW Athens
+2003,Lauderdale,0,0,5 W Florence-Petersville
+2003,Colbert,0,0,Muscle Shoals
+2003,Elmore,0,0,3.6 NW Tallassee-3.0 NW Tallassee
+2003,Greene-Hale,0,0,4.9 SE Forkland-4.4 W Cedarville
+2003,Pickens,0,0,1.9 NW Dancy
+2003,Dallas,0,0,1.5 NE Marion Junction
+2003,Dallas,0,0,Tilden Community
+2003,Wilcox,0,0,Millers Ferry
+2003,Etowah,0,0,2.2 ESE Tabor-3.1 E Tabor
+2003,Jackson,0,3,2 SW Flat Rock-2 NE Flat Rock
+2003,Jackson,0,0,2 NE Dutton-3 NE Dutton
+2003,Jackson,0,0,Section-Rosalie
+2003,Madison,0,0,2 N Toney-3 NE Toney
+2003,Calhoun-Cleburne,0,3,White Plains-Shoal Creek Pinic Area
+2003,Conecuh,0,0,4 E Lenox
+2003,Escambia,0,0,Wallace
+2003,Marengo,0,0,1.6 W Providence-2.1 N Providence
+2004,Lamar,0,0,10.9 W Millport-8.6 NW Millport
+2004,Baldwin,0,0,Seminole
+2004,Baldwin,0,0,1 S Elsanor
+2004,Baldwin,0,0,2 NW Robertsdale-2 NNW Robertsdale
+2004,Baldwin,0,4,1.7 SW Summerdale-2.9 NE Summerdale
+2004,Lee,0,0,3.0 SE Opelika-3.1 SE Opelika
+2004,Baldwin,0,0,Fairhope
+2004,Tallapoosa,0,0,1.8 SE Daviston-2.7 SE Daviston
+2004,Montgomery,0,0,2.8 SW Cecil-2.0 E Cecil
+2004,Mobile,0,0,Mon Louis
+2004,Tallapoosa-Clay,0,1,2.9 N Hackneyville-5.9 SE Ashland
+2004,Talladega-Calhoun,1,0,3.5 SE Lincoln-Anniston
+2004,Elmore,0,0,3.2 NW Millbrook-2.6 NW Millbrook
+2004,Talladega,0,0,0.6 SW Winterboro-2.6 NE Winterboro
+2004,Talladega-St. Clair,0,0,10.7 NW Talladega-5.9 SW Lincoln
+2004,Talladega,0,0,1.5 SE Childersburg-2.1 SE Childersburg
+2004,Autauga,0,1,3 S Autaugaville-4 W Prattville
+2004,Dallas,0,0,10 SE Selma-10.6 SE Selma
+2004,Autauga-Chilton-Coosa,0,0,1.1 NE Jones-0.8 SE Hanover
+2004,Jefferson,0,0,3.9 S McCalla-3.4 SE McCalla
+2004,Dallas,0,1,0.5 N Marion Junction-2.3 E Summerfield
+2004,Marengo-Dallas,0,0,7.9 E Thomaston-2.4 NW Safford
+2004,Choctaw,0,0,Silas
+2004,Clarke,0,0,Chilton-5.6 NW Fulton
+2004,Marengo,0,2,10.1 SW Thomaston-3.7 SE Thomaston
+2004,Lamar-Marion,0,0,1.2 SE Detroit-3.3 SE Hamilton
+2004,Conecuh,0,0,Owassa
+2004,Limestone,0,0,2 WSW Lester-Lester
+2004,Lauderdale,0,0,Lexington-2 N Lexington
+2004,Colbert-Lauderdale,0,3,2 E Riverton-2 NW Petersville
+2004,Macon,0,0,9 SE Tuskegee
+2004,Barbour,0,0,8 E Clayton
+2004,Montgomery,0,0,5 E Snowdoun
+2004,Pike,0,0,13 E Troy
+2004,Barbour,0,0,2 S Clio
+2004,Pike,0,0,1 E Troy
+2004,Conecuh,0,0,2 S Castleberry-2 SW Castleberry
+2004,Escambia,0,0,1 W Dixie-4 NW Dixie
+2004,Baldwin,0,0,3 SE Josephine-1 SW Josephine
+2004,Jackson,0,0,1 W Skyline-Skyline
+2004,Colbert,0,0,7 SW Cherokee
+2004,Colbert,0,0,Cherokee
+2004,Madison,0,1,2 SW Huntsville-3 SW Huntsville
+2004,Madison,0,0,Owens Crossroads
+2004,Mobile,0,0,2 SE Dauphin Island
+2004,Geneva,0,0,Coffee Springs
+2004,Jefferson,0,0,Bluff Park-2 E Hoover
+2004,Jefferson,0,0,1 SW Hueytown-1.9 SE Hueytown
+2004,Madison,0,0,New Sharon-3 NE Fisk
+2004,Limestone,0,3,2 S Cairo-2 SW Elkmont
+2004,Lauderdale,0,0,3 N Anderson-5 NNE Anderson
+2004,Lauderdale,0,0,2 SE Killen-2 S Elgin
+2004,Lauderdale,0,0,6 W Florence-Florence
+2004,Lauderdale,0,0,3 W Murphy Crossroads-1 NE Murphy Crossroads
+2004,Limestone,0,0,8 ESE Athens- 10 E Athens
+2004,Limestone,0,0,6.5 ESE Athens- 7.0 ESE Athens
+2005,Coosa,0,0,2.7 WSW Equality - 2.2 WSW Equality
+2005,Elmore,0,0,11.7 N Wetumpka
+2005,Autauga,0,0,3.2 W Autaugaville - 3 NE Autaugaville
+2005,Dallas,0,0,8.5 NNW Selma - 12 N Selma
+2005,Jefferson,0,0,2 NW Hueytown
+2005,Jefferson,0,0,9.7 N Graysville
+2005,Cullman,0,0,Crane Hill - 1 NE Crane Hill
+2005,Lamar,0,0,Vernon
+2005,Winston,0,0,5.5 NE Haleyville
+2005,Monroe,0,0,Monroe County Airport
+2005,Sumter,0,0,Coatopa-2.8 NE Coatopa
+2005,Tuscaloosa,0,0,3.7 N Coker
+2005,Tuscaloosa,0,0,2.6 S Buhl-2.2 N Buhl
+2005,Tuscaloosa,0,0,6.2 S Buhl-5.0 S Buhl
+2005,Greene,0,0,6.5 SW Clinton-0.6 SW Clinton
+2005,Tuscaloosa,0,0,6.5 SW Samantha-1.8 S Samantha
+2005,Tuscaloosa,0,0,4.5 NE Buhl-4.7 SW Samantha
+2005,Tuscaloosa,0,2,1.3 S Buhl-5.8 NE Buhl
+2005,Tuscaloosa,0,0,0.6 E Elrod-5.3 W Samantha
+2005,Greene-Tuscaloosa,0,0,12 NE Union
+2005,Pickens,0,0,7.3 NE Benevola
+2005,Winston,0,0,1.8 SE Delmar-1.6 SE Delmar
+2005,Tuscaloosa,0,0,8.2 NW Samantha-8.0 NW Samantha
+2005,Fayette,0,0,12.5 NE Fayette
+2005,Winston,0,0,2.9 SE Double Springs-3.8 NE Double Springs
+2005,Tuscaloosa,0,0,3.5 NW Echola-4.7 NW Echola
+2005,Winston,0,0,5.9 SE Double Springs-5.2 SE Double Springs
+2005,Marion,0,0,3.5 WSW Winfield-3.3 NW Winfield
+2005,Lamar-Fayette,0,0,1.2 SE Kennedy-1.3 ENE Belk
+2005,Pickens,0,0,8.4 SW Aliceville-3.2 SW Aliceville
+2005,Lamar,0,0,2.8 W Crossville
+2005,Monroe,0,0,Excel
+2005,Russell,0,0,16.2 W Phenix City
+2005,Macon,0,0,5.4 NW Tuskegee-8.4 NW Tuskegee
+2005,Calhoun,0,0,6 SW Piedmont-5.5 SW Piedmont
+2005,Bullock,0,0,3.4 W Union Springs
+2005,Bullock-Montgomery,0,0,1.3 W Mitchell- 1.5 NE Cecil
+2005,Tallapoosa,0,0,1.8 SW Reeltown-2.8 NW Reeltown
+2005,Escambia,0,0,7 S Huxford-5 S Huxford
+2005,Mobile,0,0,Alabama Port
+2005,Baldwin,0,0,Fort Morgan
+2005,Mobile,0,0,Semmes
+2005,Lee,0,0,8.5 E Opelika-9.7 E Opelika
+2005,Chambers-Tallapoosa,0,0,4.2 E Camphill
+2005,Autauga,0,0,3 E Autaugaville
+2005,Macon,0,1,8 NW Tuskegee
+2005,Elmore,0,0,1 SSW Tallassee-2.4 NW Tallassee
+2005,Macon-Elmore,0,0,2.5 W Shorter-4.7 SW Tallassee
+2005,Montgomery,0,0,2.6 SSW Cecil-5.3 NNW Cecil
+2005,Autauga,0,0,0.5 NW Vida-0.7 NW Vida
+2005,Autauga,0,0,4.9 N Autaugaville
+2005,Covington,0,0,Lockhart
+2005,Covington,0,0,Watkins Bridge
+2005,Escambia,0,0,Atmore
+2005,Clarke,0,0,5 W Walker Springs
+2005,Washington,0,0,Leroy
+2005,Mobile,0,0,Chunchula
+2005,Mobile,0,0,Semmes
+2005,Covington,0,0,5 W Opp
+2005,Crenshaw,0,0,Dozier
+2005,Covington,0,0,4 E Gantt
+2005,Barbour,0,0,2 SE Mt Andrew-1 E Comer
+2005,Bullock,0,0,2.8 N Perote-2 S Midway
+2005,Crenshaw,0,0,Bradleyton-4 E Bradleyton
+2005,Lowndes,0,1,4.2 SW White Hall-3 SW White Hall
+2005,Clay-Tallapoosa,0,0,11.7 S Ashland-1.2 NE Wadley
+2005,Shelby,0,0,2.8 NE Columbiana-4.2 NE Columbiana
+2005,Shelby,0,0,3.3 SW Helena-7.7 NE Helena
+2005,Tuscaloosa,0,0,2.2 NW Northport-5.8 NE Northport
+2005,Walker,0,0,5.8 E Jasper-6.4 E Jasper
+2005,Cherokee,0,0,0.8 NE Jamestown-1.4 NE Jamestown
+2005,Cherokee,0,0,2.1 NW Jamestown-1.8 NW Jamestown
+2005,DeKalb,0,0,5 ESE Fort Payne
+2005,Pickens,0,0,1.3 W Aliceville-1.1 N Aliceville
+2005,Houston,0,4,3.5 SSE Pansey-2 SW Gordon
+2005,Pickens,0,0,6.2 SW Ethelsville-5.6 SE Ethelsville
+2005,Hale,0,0,3.6 SW Greensboro-2.8 SW Greensboro
+2006,Hale,0,0,6.5 SSE Havana-4.1 WNW Hogglesville
+2006,Hale,0,0,1.3 E Greensboro Municipal Airport-2.5 WNW Greensboro
+2006,Hale,0,0,2.6 WSW Greensboro Municipal Airport-5.5 N Greensboro
+2006,Marengo,0,0,2.9 SSW Shortleaf-0.6 NW Demopolis
+2006,Henry,0,0,2 S Newville-3 E Newville
+2006,Barbour,0,0,1.6 WSW Mount Andrew
+2006,Coffee-Pike-Barbour,0,0,2.2 S Hamilton Crossroads-3 ESE Enon
+2006,Chambers,0,0,1.4 WNW Lafayette-1.5 NW Lafayette
+2006,Coffee,0,2,2 NE Elba-5 NE Elba
+2006,Covington,0,0,4.4 E Green Bay-5.7 WNW Eoda
+2006,Tallapoosa,0,0,1.8 WNW Reeltown
+2006,Elmore,0,0,1.9 W Kent-0.5 NW Red Hill
+2006,Elmore,0,0,4.1 ESE Ware-3.1 E Ware
+2006,Montgomery,0,6,2.3 NNW Pinedale-1.8 ENE Mount Meigs
+2006,Lowndes-Montgomery,0,0,3.5 ENE Fleta - 2.0 NW Pintlala
+2006,Baldwin,0,0,0.3 SE Dyas-1 WNW Dyas
+2006,Baldwin,0,0,3.8 NE Rabun-3.5 NNE Rabun
+2006,Washington,0,0,2.3 ESE Jordan-4.1 SSE Bigbee
+2006,Blount,0,3,Oneonta
+2006,Blount,0,0,Locust Fork
+2006,Marshall,0,0,Albertville
+2006,Blount,0,0,5 SW Locust Fork
+2006,Colbert,0,0,2 N Littleville - 5 SW Leighton
+2006,Marshall,0,0,1 N Arab
+2006,Clarke,0,0,Talahatta Springs
+2006,Marengo,0,0,2.6 NW Linden
+2006,Limestone,0,0,6 WSW Elkmont
+2006,Limestone,0,0,2 S Salem - 3 SW Elkmont
+2006,Talladega,0,0,1 NNW Childersburg - 0.5 NNE Childersburg
+2006,Calhoun,0,0,1.2 SSW Ohatchee - 1.7 S Ohatchee
+2006,Jefferson,0,0,Roebuck Plaza - 2.6 ENE Roebuck Plaza
+2006,Jefferson,0,1,Gardendale - 2.1 SE Gardendale
+2006,DeKalb,0,0,5 ESE Ft Payne
+2006,Cullman,0,0,5 NE Cullman
+2006,Marshall,0,0,3 N Arab
+2006,Lawrence-Morgan,0,0,3 SE Speake - 3 NE Danville
+2006,Limestone,0,0,Greenbrier
+2006,Morgan,0,0,2 E Decatur - 3 E Decatur
+2006,Marion-Winston,0,0,5.5 SE Bear Creek - 3.1 ENE Haleyville
+2006,Lawrence,0,0,Caddo
+2006,Lawrence,0,0,1 E Mt Hope
+2006,Franklin,0,0,Hodges - 3 NW Hodges
+2006,Marion,0,0,5.4 W Hamilton-7.8 NE Hamilton
+2006,Lawrence,0,0,1 NW Hatton
+2006,Madison,0,0,2 N Skinem - 4 N Skinem
+2006,Madison,0,0,Sulphur Springs
+2006,Limestone,0,0,2 ENE Cairo - 3 ENE Cairo
+2006,Colbert,0,0,Colbert Heights - Leighton
+2006,Colbert,0,0,4 SW Tuscumbia - 1 SE Muscle Shoals
+2006,Lauderdale,0,0,St. Florian
+2006,Colbert,0,0,Cherokee
+2006,Cullman,0,0,7 SSW Hanceville
+2006,Cullman,0,0,7 SSW Hanceville
+2006,Cullman,0,0,8 SSW Hanceville
+2006,Blount,0,0,6.8 NW Hayden
+2006,Cullman,0,0,2 NE Arkadelphia
+2006,Tuscaloosa,0,0,9.9 N Samantha
+2006,Tuscaloosa - Fayette,0,0,9.3 NW Samantha
+2006,Walker,0,0,9.7 NE Jasper
+2006,Lamar,0,0,1.6 SW Kennedy
+2006,Fayette,0,0,15 NNW Bankston
+2006,Fayette,0,0,14.9 N Fayette
+2006,Lamar,0,0,4.3 SW Sulligent
+2006,Conecuh,0,0,17 NW Evergreen
+2006,Monroe,0,0,Tunnell Springs
+2006,Henry,0,0,Tumbleton
+2006,Barbour,0,1,7.6 N Clayton - 13.4 NE Clayton
+2006,Dale,0,0,Level Plains Crossroads - 1 NE Level Plains Crossroads
+2006,Conecuh,1,0,Belleville
+2007,Butler,0,0,2 NW Georgiana
+2007,Lowndes,0,0,5.1 ESE Lowndesboro - 2.9 SSW Manack
+2007,Bibb,0,0,3.1 SW Harrisburg - 1.8 SSW Ingate
+2007,Hale,0,2,3.3 S Sledge - 1.7 ENE Rosemary
+2007,Mobile,0,0,0.7 SE Bayou La Batre Airport - 0.7 ENE Bayou La Batre Airport
+2007,Mobile,0,0,Dauphin Island
+2007,Lawrence,0,0,10 S Mt Hope - 9.8 S Mt Hope
+2007,Marion,0,0,2.3 NNE Thorn Hill
+2007,Lamar,0,0,5.2 W Vernon
+2007,Barbour,0,0,3.3 W Blue Springs
+2007,Morgan,0,0,2.2 SSW Trinity
+2007,Dale,0,0,3.0 NW Ozark-5.0 NE Ozark
+2007,Bullock,0,0,17 S Union Springs
+2007,Conecuh,0,0,2.5 NNW Castleberry
+2007,Crenshaw,0,0,5 NW Saville
+2007,Monroe,0,0,Vredenburgh
+2007,Macon-Russell,0,0,6.8 SE Tuskegee-Uchee
+2007,Tallapoosa,0,0,Dadeville
+2007,Elmore,0,0,4.8 SE Wetumpka
+2007,Bibb-Chilton,0,0,Randolph
+2007,Jefferson,0,0,2.7 NNW Sayre
+2007,Jackson,0,0,1.1 SSE Davistown-3.6 SE Davistown
+2007,Madison,0,0,2.3 WNW Elkwood-1.1 S Hazel Green Airport
+2007,Shelby,0,0,6 SW Alabaster
+2007,Russell-Lee,0,0,3.0 NNE Ladonia-3.0 W Midland
+2007,Jefferson,0,0,1.3 WNW Oakwood-0.9 SE Adamsville
+2007,Winston-Cullman,0,0,Lewis Smith Lake-4.9 NW Crane Hill
+2007,Barbour,0,0,6.7 NNE Eufaula
+2007,Tuscaloosa,0,0,1.4 WNW Samantha-3.1 NE Samantha
+2007,Fayette,0,0,0.7 S Bluff-1.9 WSW Bazemore
+2007,Lowndes-Montgomery,0,6,1.4 ENE Sandy Ridge-2.7 NE Garters Hill
+2007,Dale-Henry,0,6,3.0 SW Echo-3.0 SSW Hatcher
+2007,Coffee,9,50,1.6 SW Enterprise-5.6 NE Enterprise
+2007,Wilcox-Dallas,1,2,2.4 E Prairie-3.8 WNW Kings Landing
+2007,Butler,0,0,2.5 NNW Industry-4.8 NNE Industry
+2007,Autauga,0,0,2.2 ENE Mulberry - 2.52 E Mulberry
+2007,Bibb,0,0,4.64 W Six Mile - 1.24 WSW Ashby
+2007,Tuscaloosa-Bibb,0,0,3.1 WSW Hagler - 1.04 ESE Harmon
+2007,Hale-Perry,0,0,0.7 SE Whitsitt - 2.47 SW Scott Station
+2007,Barbour,0,0,2.9 S Terese - 1.9 SE Terese
+2007,Dale,0,0,3.9 NW Ozark - 3.4 NW Ozark
+2007,Tallapoosa,0,0,1.7 S Barnesville - 1.2 S Walnut Hill
+2008,Walker,0,0,1.6 SSW Mc Cullum
+2008,Limestone,0,0,1.6 ESE Orrville - 0.8 NNE Belle Mina
+2008,St. Clair,0,0,1.7 N Acmar - 2.2 E Branchville
+2008,Jackson,0,0,1.0 SE Tupelo - 2.1 ENE Pikeville
+2008,Walker,0,0,3.7 W Sipsey - 3.2 N Sipsey
+2008,Walker,0,0,0.6 ESE Oakman - 0.4 NNW Coal Valley
+2008,Marion,0,0,1.9 WNW Winfield
+2008,Henry,0,0,5.4 W Capps
+2008,Dale,0,0,1.1 ESE Pinckard
+2008,Houston,0,0,3 N Wicksburg - 2.8 N Hollis Dairy
+2008,Dale,0,0,5 S Ozark - 1.1 NW Klondyke Hill
+2008,Dale,0,0,0.6 WSW Fort Rucker
+2008,Coffee,0,0,0.6 WSW Enterprise - 1.3 ENE Enterprise
+2008,Covington,0,0,4.8 NNW Watkins Bridge - 4.8 S Libertyville
+2008,Walker,0,0,3.4 NE Eldridge - 3.8 NE Eldridge
+2008,Baldwin,0,0,1 N Elberta
+2008,Houston,0,0,2 SE Gordon
+2008,Pike,0,0,1 SSW Enon
+2008,Calhoun,0,0,0.9 NNE Choccolocco - 1.6 S Pleasant Ridge
+2008,Calhoun,0,0,1 SW Old Davisville
+2008,Cleburne,0,0,3 NW Chulafinnee
+2008,Blount,0,0,4.5 SSE Allgood
+2008,St. Clair,0,0,1.7 SE St. Clair Springs - 0.6 NE St. Clair
+2008,Dale,0,0,1 NW Arguta
+2008,Pike,0,0,2 NE Corcoran
+2008,Autauga,0,0,4 NE Prattville
+2008,Winston,0,0,0.5 NNE Meek
+2008,Coosa,0,0,0.9 SW Wetona
+2008,Elmore,0,0,3.5 WNW Ware
+2008,Mobile,0,0,Dauphin Island
+2008,DeKalb,0,0,0.9 NNW Collinsville
+2008,Conecuh-Covington,0,0,1.0 WNW Paul - 5.4 ENE Melrose
+2008,Cleburne,0,0,3.9 SSE Edwardsville - 2.6 W Abernathy
+2008,Cleburne,0,0,3.4 W Heflin - 1.1 SSE Heflin
+2008,Walker-Cullman,0,0,3.9 N Dilworth - 3.1 WSW Arkadelphia
+2008,Walker,0,0,2.1 NE Marigold - 5.7 N Sipsey
+2008,Lauderdale,0,0,2.0 W Powell - 1.0 WSW Powell
+2008,Marion,0,0,2.9 SW Shottsville - 3.5 WNW Thorn Hill
+2008,Lauderdale,0,0,2.8 W Gravelly Springs - 1.4 WNW Gravelly Springs
+2008,Cullman,0,0,0.2 NNW St Bernard - 1.9 NNE Simcoe
+2008,Limestone-Madison,0,0,0.6 S New Hope - 0.7 NNW Triana
+2008,Cullman,0,0,3.2 WSW Trimble - 0.2 SE Trimble
+2008,Morgan,0,0,0.2 SW Oak Ridge - 0.7 NE Oak Ridge
+2008,Walker-Cullman,0,0,6.2 NE Marigold - 4.6 SW Wheat
+2008,Fayette-Walker,0,0,3.1 SW Bazemore - 0.2 NE Kansas
+2008,Colbert-Lawrence-Lauderdale,0,0,2.2 WNW Midway - 1.5 NNW Rogersville
+2008,Lauderdale,0,2,1.6 ENE Central Heights - 2.1 S Rhodesville
+2008,Jefferson,0,0,1.6 SSW Vestavia Hills - 1.3 SSW Vestavia Hills
+2008,Jefferson,0,0,2 W Hopkins
+2008,Cullman,0,0,1.9 NW Cullman Folsom Field
+2008,Marshall,0,0,2.2 SE Grant - 2.4 ESE Grant
+2008,Marshall,0,0,1.6 SE Oleander - 2.1 E Oleander
+2008,Madison,0,0,0.9 NE Mount Leventov - 1.6 N Stegers Store
+2008,Morgan,0,0,1.0 SW Center Grove - 0.8 SE Center Grove
+2008,Cullman,0,0,1.0 SSE Vinemont
+2008,Calhoun,0,0,0.6 SW Fort McClellan
+2008,Winston,0,0,3.2 SSW Ashbank - 3.0 SSE Ashbank
+2008,Limestone,0,0,1.8 ESE Copeland - 1.0 S Copeland
+2008,Limestone,0,0,2.0 ENE Ripley
+2008,Colbert,0,0,1.9 SSE Hobgood Siding - 0.3 NNW Cotton Town
+2008,Cherokee,0,0,2.3 E Gnatville - 1.8 NNW Spring Garden
+2008,Blount,0,0,4.0 S Mattawana - 4.1 SSE Oneonta Robbins Airport
+2008,Tuscaloosa,0,0,3.5 WNW Samantha - 3.7 NW Samantha
+2008,Greene,0,0,2.3 W Eutaw - 5.1 SSE Union
+2008,St. Clair,0,0,1.6 NNW Easonville - 0.3 ESE Cropwell
+2008,Shelby,0,0,5.0 N Simmsville - 5.2 NNW Argyle
+2008,Jefferson,1,0,0.6 E Parkwood - 1.8 W Leeds
+2008,Barbour,0,0,1.4 NW Richards
+2008,Barbour,0,0,1.6 S Blue Springs - 2.0 ESE Blue Springs
+2008,Barbour,0,0,2.8 NNW Elamville - 1.4 NNW Gaino
+2008,Russell,0,4,2.4 SSE Glenville - 0.5 SSE Mahrt
+2008,Autauga-Elmore,0,50,3.3 SE Prattville - 0.9 WNW Speigner
+2008,Lowndes,0,10,0.7 SSE Collirene - 4.0 SE White Hall
+2008,Randolph,0,0,3.1 NNE Corinth - 2.4 SSE Sewell
+2008,Coffee-Pike,0,0,5.0 WNW Jack - 3.3 ENE Spring Hill
+2008,Clay,0,0,2.4 S Gibsonville - 1.9 SSW Mellow Valley
+2008,Tallapoosa,0,0,5.0 WSW Hackneyville - 0.6 W Hackneyville
+2008,Coosa-Tallapoosa,0,0,1.6 NW Socapatoy - 2.0 NNE Soleco
+2008,Chilton,0,0,1.2 ENE Falakto - 2.3 ENE Falakto
+2008,Escambia-Covington,0,0,3.4 NNE Parker Springs - 3.1 NE Dixie
+2008,Dallas,0,0,4.0 N Potter - 3.4 ENE Summerfield
+2008,Coosa-Talladega,0,0,4.8 SW Marble Valley - 2.3 SW Gantt Junction
+2008,Jackson,1,12,1.0 SSE Pisgah - 1.1 SE Flat Rock
+2008,Marshall,0,0,0.7 SSW Guntersville Municipal Airport
+2008,Cullman,0,0,3.6 ESE Loretto
+2008,Lawrence-Morgan,4,23,2.1 ENE Leola - 1.8 SW Griffin Addition
+2008,Fayette-Tuscaloosa-Walker,0,4,1.6 E Newtonville - 1.5 NNW Oakman
+2008,Lamar-Marion,0,0,0.3 SSW Beaverton - 1.5 NNW Guin
+2008,Barbour,0,0,2.1 SSW Blue Springs - 1.8 ENE Blue Springs
+2008,Tuscaloosa,0,0,6.2 SE Sterling - 8.2 E Sterling
+2008,Pickens - Tuscaloosa,0,0,2.2 ESE Gordo - 2.5 SW Echola
+2008,Pickens,0,0,0.5 SSE Pickensville
+2008,Lamar,0,0,3.1 WSW Molloy - 1.8 NNE Molloy
+2008,Marengo,0,0,1.1 WNW Marengo - 1.1 SE Vangale
+2009,Dale,0,0,0.9 NW Rocky Head - 0.8 NW Rocky Head
+2009,Coffee,0,0,2.7 ESE Java - 2.8 ESE Java
+2009,Marion,0,0,0.1 WSW Thorn Hill - 2.7 NNE Thorn Hill
+2009,Lawrence,0,0,1.3 S Landersville - 1.5 SSE Landersville
+2009,Chilton,0,0,0.7 SE Lomax - 0.9 E Lomax
+2009,Limestone,0,0,1.7 NNW Elkmont -�1.8 NNW Elkmont
+2009,Marshall,0,0,1.4 WSW Albertville Airport - 0.6 S Albertville Airport
+2009,Lawrence,0,0,2.3 WSW Masterson Mill -�1.9 SW Masterson Mill
+2009,Madison,0,0,0.5 NW Madison County Jet Port
+2009,Lee,0,0,0.5 NW Cawatchee - 0.4 NW McCulloh
+2009,Autauga,0,0,3.2 E Marbury - 2.9 E Marbury
+2009,Jefferson,0,0,2.9 W Warrior - 2.6 W Warrior
+2009,Blount,0,0,5.7 WSW Blount Springs
+2009,Walker,0,0,6.2 NNW Sipsey
+2009,Walker,0,0,0.8 NW Cordova - 0.9 NNE Cordova
+2009,Walker,0,0,2.1 E Jasper - 5.2 ESE Jasper Walker Co Airport
+2009,Limestone-Madison,0,0,2.0 ENE Greenbrier - 2.7 NW Oakwood College
+2009,Tuscaloosa,0,0,3.3 SSE Shirley
+2009,Tuscaloosa,0,0,4.3 NNW Samantha
+2009,Morgan,0,0,1.7 N Oakworth - 1.6 NW Fairview
+2009,Pickens,0,0,0.3 SE Carrollton - 1.6 E Carrollton
+2009,Lawrence-Morgan,0,0,4.0 S Caddo - 3.9 SW Griffin Addition
+2009,Pickens,0,0,3.5 S Pickensville - 3.0 SSE Pickensville
+2009,Madison,0,0,1.2 WNW Cave Springs - 1.0 NNE Cave Springs
+2009,Marshall,0,0,2.0 ENE Mt Olive - 2.2 ENE Mt Olive
+2009,St. Clair,0,0,3.7 NW New London - 4.7 NNE Riverside
+2009,St. Clair,0,0,2.0 SSW Prescott - 1.8 SSE Prescott
+2009,Shelby,0,0,1.4 WNW Dunavant - 1.3 N Dunavant
+2009,Shelby,0,0,5.8 NE Quito - 5.2 WSW Dunavant
+2009,Hale,0,0,1.8 SW Newbern
+2009,Lamar,0,0,2.1 SSE Hightogy - 0.2 SE Kingville
+2009,Fayette,0,0,2.6 N Covin
+2009,Russell,0,0,1.5 WNW Girard - Phenix City
+2009,St. Clair,0,0,2.4 NNE Greensport - 3.8 SSE Steele
+2009,DeKalb,0,13,2.6 SSE Stamp - 0.7 ESE Hammondville
+2009,DeKalb,0,0,0.5 NNE Guest - 0.5 W Pleasant Hill
+2009,Blount-St. Clair,0,0,4.8 S Mattawana - 5.5 SSE Oneonta Robbins Airport
+2009,Bullock,0,0,2.9 N Hector
+2009,Marshall,1,1,2.0 SE Little New York - 3.0 SSE Poplar Springs
+2009,Montgomery,0,0,3.1 N Pine Level
+2009,Montgomery,0,0,3.4 NE Ramer
+2009,Morgan,0,1,2.4 WSW Brooksville - 1.9 WSW Brooksville
+2009,Shelby,0,0,0.5 ENE Maylene - 0.2 ENE Alabaster
+2009,Morgan,0,0,0.2 W Pumpkin Center - 0.6 N Neel
+2009,Perry,0,0,3.1 N Marion - 3.6 NNE Marion
+2009,Lawrence,0,0,2.5 WNW Wren - 1.9 SE Moulton
+2009,Shelby,0,0,0.6 NE Scotrock - 1.8 E Pelham
+2009,Perry,0,0,4.9 NW Scott Station - 2.7 SW Folsom
+2009,Lawrence,0,0,1.7 WSW Mt Hope - 1.1 S Mt Hope
+2009,Hale,0,0,2.0 NNW Whitsitt - 1.9 E Rosemary
+2009,Geneva,0,0,WNW Black
+2009,Russell,0,1,2.6 WSW Nuckols - 2.3 SW Nuckols
+2009,Montgomery-Macon-Bullock,0,0,2.6 NNE Pinedale - 0.5 S Down
+2009,Tallapoosa-Macon-Lee,0,0,2.1 E Reeltown - 1.1 WNW Marvyn
+2009,Russell,0,2,3.9 SSW Ladonia - 3.0 S Ladonia
+2009,Russell,0,0,3.0 NNE Unland - 0.8 ESE Crawford
+2009,Lee,0,0,0.7 E Mitchell Crossroads - 1.1 NNW Whatley Crossroads
+2009,Lee,0,0,3.0 WNW Loachapoka - 2.5 E Loachapoka
+2009,Tallapoosa-Lee,0,0,3.3 WNW Church Hill - 4.3 SSW Roxana
+2009,Marshall-Jackson-DeKalb,0,5,2.7 SSE Grant - 3.1 WSW Stamp
+2009,Limestone,0,0,SSW Thach
+2009,Marshall,0,0,0.4 ENE Little New York - 2.3 E Little New York
+2009,Madison,0,0,Huntsville
+2009,Morgan,0,0,Laceys Spring
+2009,Limestone,0,0,0.8 WNW Murphee Place - 1.0 SE Tanner
+2009,Colbert,0,0,2.7 N Old Bethel - 2.4 SW Bingham
+2009,Tuscaloosa,0,0,1.8 NW Samantha - 1.9 NNW Samantha
+2009,Lamar,0,0,0.9 SSE Hightogy
+2009,Dekalb,0,0,3.2 NNW Allen - 1.8 W Valley Head
+2009,Jackson,0,0,1.9 ENE Pisgah - 1.7 WNW Rosalie
+2009,Escambia,0,0,0.5 S Appleton - 2.0 NE Appleton
+2009,Shelby,0,0,1.1 NNE Maylene - 1.0 ENE Alabaster
+2009,Lamar-Fayette,0,0,3.3 SSE Kennedy - 5.9 SSE Belk
+2009,Lee,0,3,1.9 WSW Salem - 1.8 SSE Valley
+2009,Lee,0,0,0.7 NNE Ridge Grove - 1.0 NNE Ridge Grove
+2009,Tallapoosa,0,0,2.3 SSE Tallassee
+2009,Hale,0,0,5.0 N Greensboro
+2009,Shelby,0,0,1.6 NW Argyle - 1.6 NNE Argyle
+2009,Randolph,0,0,0.3 NNW Wehadkee - 0.8 ENE Wehadkee
+2009,Washington,0,0,0.1 WSW McIntosh - 1.5 ENE McIntosh
+2010,Elmore,0,0,3.4 N Wetumpka - 1.8 NNW Santuck
+2010,Clay,0,0,1.5 SW Hatchett - 0.6 SE Hatchett
+2010,Autauga,0,0,0.8 E Prattville - 1.3 SSE Fays
+2010,Blount,0,0,4 NW Liberty - 3.4 NNW Liberty
+2010,Perry,0,0,2 NNE Scott Station
+2010,Lamar,0,0,1.6 E Fernbank - 0.4 SW Millport
+2010,Jefferson,0,0,0.9 NW Huffman - 1.1 SSE Chalkville
+2010,Marshall,0,0,0.8 SSE Mc Ville - 1.4 ESE Mc Ville
+2010,DeKalb,0,0,0.2 SE Whiton - 1.8 SE Chigger Hill
+2010,Limestone,0,0,1.9 S Greenbrier - 1.8 SSE Greenbrier
+2010,Lawrence,0,0,1.5 NNW Hillsboro - 1.4 N Hillboro
+2010,Mobile,0,0,1.4 N Cottage Hill - 1.8 NNE Cottage Hill
+2010,Jackson - DeKalb,0,0,1.0 S Rosalie - 3.5 NE Ider
+2010,Jackson - DeKalb,0,0,1.7 N Browntown - 3.8 NE Sulphur Springs
+2010,Jackson,0,0,1.3 E Section - 1.8 SSE Dutton
+2010,Marshall,0,0,1.2 E North Arab - 1.9 W Grassy
+2010,Winston,0,0,0.8 NW Delmar - 2.6 ENE Pleasant Hill
+2010,Baldwin,0,0,1.8 SSE Elsanor - 1.2 E Elsanor
+2010,Dekalb,0,5,1.2 ESE Dog Town - 3.5 E Rodentown
+2010,Dekalb,0,0,2.0 SSW Bankhead - 3.0 E Bankhead
+2010,Walker - Jefferson - Blount,0,0,Parrish -�Sumiton - Empire
+2010,Blount - Marshall - Dekalb,0,45,1.2 NW McLarty - 1.0 SSE Henagar
+2010,Fayette- Walker,0,0,NE Berry - 5 W Oakman
+2010,Fayette,0,0,SW Berry
+2010,Cullman,0,0,1.2 SSW Midway - 2.1 NE Welti
+2010,Marion,0,0,Gu-Win - Brilliant
+2010,Hale,0,0,4.8 NNE Greensboro - 1.7 SW Hogglesville
+2010,Marengo-Greene-Hale,0,2,0.7 WNW Demopolis - 3.7 N Arcola
+2010,Sumter,0,0,4.6 S Siloam
+2010,Coffee,0,0,3.0 SW Damascus
+2010,Washington,0,0,1.5 WSW Malcolm
+2010,Blount,0,0,1.0 NW Blountsville
+2010,Chilton,0,0,Clanton
+2010,Shelby,0,0,Maylene - Alabaster
+2010,Morgan,0,0,1.1 NW Penn - 1.0 W Massey
+2010,Washington,0,0,0.8 SSE Yellow Pine
+2010,Madison,0,1,1.1 W Huntsville Park�- 0.8 NNW Huntsville�Mill�AP
+2011,Elmore-Coosa-Tallapoosa,0,0,1.5 NW Sykes Mill - 3.1 NNW Alexander City
+2011,Autauga-Elmore,0,0,3.4 S New Prospect - 5.2 WSW Titus
+2011,Shelby,0,0,Columbiana
+2011,Dallas,0,0,1.8 ENE Selma Selfield Airport - 2.5 ESE Manila
+2011,Bibb,0,0,0.3 SW Lawley - 1.5 SSW Randolph
+2011,Bibb,0,0,1.1 SSE Centreville Fox Airport
+2011,Randolph,0,0,2.2 SSW Graham
+2011,Macon-Lee,0,2,2.4 SSE Notasulga - 0.8 ESE Jester
+2011,Montgomery,0,0,2.1 ESE Chisholm - 1.9 SE Kilby
+2011,Clark,0,0,4 E Tallahatta Springs
+2011,Marengo,0,0,2.7 S Shortleaf - 1.2 S Spocari
+2011,Sumter,0,1,3.0 N Persimmon Grove - 3.9 SSW Moscow
+2011,Hale,0,0,5.2 SSW Hogglesville - 1.8 SSW Hogglesville
+2011,Etowah,0,0,0.7 W Rainbow City - 1.1 WNW Rainbow City
+2011,Baldwin,0,0,0.7 S Lillian - 0.3 WNW Lillian
+2011,Mobile,0,0,1.7 NNW Mon Louis - 1.5 ENE South Orchard
+2011,Mobile,0,0,4.7 W Dauphin Island
+2011,Madison,0,0,1.5 ENE Mt Leventov - 0.4 S Union Grove
+2011,Limestone-Madison,0,0,1.5 SW Bethel - 0.4 NNW Maple Hill
+2011,Limestone,0,0,2.0 N Stewerds Store - 2.3 NNE Stewerds Store
+2011,Limestone,0,0,0.6 SW O'Neal - 0.1 NE Hays Mill
+2011,Limestone,0,0,3.8 SSW Wheeler Lake North - 2.9 S Wheeler Lake North
+2011,Lauderdale,0,0,0.2 ENE Mitchelltown - 0.7 SSW Springfield
+2011,Colbert-Lawrence,0,0,1.9 WNW Old Bethel - 2.3 W Wolf Springs
+2011,Chilton,0,1,0.6 NE Cooper - 2.5 ENE Cooper
+2011,Chambers,0,0,2.1 E Five Points - 0.5 ENE Hickory Flats
+2011,Chambers,0,0,1.6 NNE Buffalo - 2.3 ESE Five Points
+2011,DeKalb,0,0,1.7 S Fort Payne - 3.2 SE Fisher Crossroads
+2011,Perry,0,0,0.4 ENE Marion Perry Airport - 2.2 NE Vilula
+2011,Shelby-Talladega,0,0,2.3 SSE Vincent - 2.6 NW St Ives
+2011,Elmore-Tallapoosa-Chambers,7,30,2.6 SSW Wallsburg - 1.4 NNE Sikes
+2011,Bibb-Shelby,0,0,1.1 SE Garnsey - 0.4 NNE Pea Ridge
+2011,Choctaw-Sumter-Marengo-Perry,0,3,2.5 NNW Cyril - 2.7 NNE Uniontown
+2011,Cullman,0,0,0.7 ENE Centerville - 1.9 NE Centerville
+2011,Hale-Bibb,0,0,1.3 W Hogglesville - 1.2 ENE Mertz
+2011,Jefferson-St. Clair-Calhoun,22,81,2.3 SE Clay - 3.1 ESE Forney
+2011,DeKalb,25,0,2.0 S Ten Broeck - 3.3 NE Sulphur Springs
+2011,Fayette,0,0,3.5 W Hubbertville - 2.3 SSE Bazemore
+2011,Greene-Hale-Bibb,7,50,3.3 WSW Tishabee - 0.6 ENE Marvel
+2011,Marion-Winston,0,25,2.1 SE Fackler - 2.6 ENE Long Island
+2011,Jackson,1,0,2.1 SE Fackler - 2.6 ENE Long Island
+2011,Limestone-Madison,0,0,0.8 ESE Orrville - 1.3 ENE Monrovia
+2011,Greene-Tuscaloosa-Jefferson,64,1500,1.4 SSW Mantua - 0.8 W Black Creek
+2011,Madison,0,0,1.2 SSW Cluttsville - 1.2 SE Cluttsville
+2011,Jackson-DeKalb,12,0,0.7 W Hodge - 2.1 S Higdon
+2011,Marion-Franklin,7,100,Shottsville
+2011,Sumter-Pickens,0,2,4.2 NW Geiger - 4.9 SE Aliceville Airport
+2011,Pickens-Tuscaloosa-Fayette-,13,54,4.6 NW Union Chapel - 2.8 SSW Crossroads
+2011,Marion-Franklin-Lawrence,72,145,4.3 WSW Barnesville - 2.1 ENE Roseboro
+2011,Cullman-Morgan-Marshall,6,48,2.9 SE Crane Hill - 1.4 NE Hebron
+2011,Madison,0,0,0.7 WSW Bloucher Ford - 1.9 S New Market
+2011,Madison,0,0,2.8 WNW Normal - 0.7 WNW Bell Factory
+2011,Limestone-Madison,0,0,1.2 NNE Capshaw - 1.9 SSW Jeff
+2011,Limestone-Madison,0,0,1.3 SE French Mill - 1.7 E Deposit
+2011,Limestone,0,0,1.3 S Reid - 0.6 NE Tanner
+2011,Morgan-Limestone,0,0,1.7 N Trinity - 0.4 ESE Orrville
+2011,Limestone,0,0,2.3 NW Ripley - 1.5 ESE Blackburn
+2011,DeKalb,0,0,1.4 S Kaolin - 2.8 NE Kaolin
+2011,DeKalb-Jackson,0,0,1.3 NNE Elliot Crossroads - 2.9 NE Rosalie
+2011,Jackson-DeKalb,1,0,0.8 ESE Section - 9.3 NNE Ider
+2011,Marshall,0,0,1.6 NNW Guntersville Lake - 2.5 WNW Kirbytown
+2011,Marshall,0,0,1.9 SW Guntersville Airport - 1.2 WSW Meltonville
+2011,Marshall,0,0,0.4 N Martling - 0.6 SSE Meltonville
+2011,Marshall,0,0,0.9 WNW Henryville - 0.9 SW Columbus City
+2011,Marshall,0,0,2.8 S Grant - 2.7 SSE Grant
+2011,Marshall,0,0,2.6 NE Big Springs - 0.2 SSE Lakeview
+2011,Marshall-DeKalb,0,0,0.8 N Warrenton - 2.3 N Grove Oak
+2011,Marshall,0,0,1.3 E Highpoint - 0.6 SSW Lane
+2011,Marshall,0,0,1.7 WNW Highpoint - 0.5 S Guntersville
+2011,Marshall,0,0,1.8 N Hyatt - 1.2 W Mountainview
+2011,Marshall,0,0,0.3 N Red Hill - 1.2 S Warrenton
+2011,Cullman-Marshall,0,0,3.9 ENE Joppa - 2.0 ENE Lakeview
+2011,St. Clair,0,5,0.9 ESE Branchville - 2.0 E Odenville
+2011,Blount-Marshall,0,0,2.3 SSW Liberty - 1.1 NNW Hyatt
+2011,Jefferson,0,20,2.1 WSW Cahaba Heights - 2.2 NNW Cooley
+2011,Jefferson-Blount,0,3,1.3 ENE Warrior - 1.1 NW Nyota
+2011,Shelby - Jefferson,0,0,0.2 SSW Quito - 1.7 SSW Cahaba Heights
+2011,Cullman,1,0,2.5 SSW Wilburn - 0.6 ESE Holly Pond
+2011,Walker,0,20,6.7 SW Drifton - 3.0 W Sipsey
+2011,Tuscaloosa-Jefferson,0,0,1.3 WSW Coaling - 1.3 NNE Kimbrel
+2011,Fayette,0,4,3.1 WSW Berry - 1.9 NNW Alta
+2011,Pickens-Tuscaloosa,0,0,5.3 SSE Gordo - 3.5 E Samantha
+2011,Pickens,0,0,3.6 NW Carrollton - 2.5 SSE Palmetto
+2011,Lauderdale,0,1,0.7 NW Smithsonia - 2.3 N Smithsonia
+2011,Pickens,0,0,3.0 SW Dancy - 2.1 NNW Benevola
+2011,Lauderdale,0,0,1.6 NNE Waterloo - 2.8 NW Murphy Crossroads
+2011,Lawrence,0,0,4.8 SW Leola - 3.0 SSW Leola
+2011,Escambia-Conecuh-Covington,0,0,3.9 NNW Boykin - 1.4 S Andalusia
+2011,Butler,0,0,5.7 WNW Greenville Airport - 2.8 WSW Searcy
+2011,Escambia,0,0,1.8 ENE Wallace - 5 N Kirkland
+2011,Tallapoosa,0,0,1.5 NNW Lake Martin North - 2.8 E Sturdivant
+2011,Elmore-Coosa-Tallapoosa,0,2,2.3 SW Weoka - 2.3 WNW Lake Martin North
+2011,Autauga,3,4,1 NW Poseys Crossroads - 2.9 SSE Pine Flats
+2011,Monroe,0,0,1.5 WSW Turnbull - 3.1 NE Midway
+2011,Mobile,0,0,1.8 NW Citronelle - 1.2 N Citronelle
+2011,Autauga,0,0,5.5 SSW Mulberry - 3.2 S Mulberry
+2011,Elmore,0,0,Titus
+2011,Dallas - Autauga,0,0,1.6 NNE Tyler - 2 SW Independence
+2011,Clarke,0,0,2.4 NNE Gainestown
+2011,Autauga,0,0,3.4 NW Pine Level - 0.6 SE Wadsworth
+2011,Autauga,0,0,2.2 W Poseys Crossroads - 1.9 E Marbury
+2011,Autauga,0,0,3.3 ESE Independence - 2.6 NNW Poseys Crossroads
+2011,Washington,3,3,6.3 SSW Escatawpa - 1.2 W Deer Park
+2011,Dallas,0,0,2 NNW Beloit - 2.5 WNW Selma Skyharbor Airport
+2011,Dallas,0,0,2.8 N Marion Junction
+2011,Lowndes,0,0,2.4 N Tyson - 4.6 NNE Tyson
+2011,Dallas,0,0,6 NNE Summerfield
+2011,Perry,0,0,1.8 NW Vilula - 2.0 NNW Vilula
+2011,Choctaw - Marengo,0,0,1.5 S Land - 2.1 SSW Linden Aiprort
+2011,Perry,0,0,1.8 SSW Ellawhite - 1.6 SSE Tayloe
+2011,Shelby,0,0,2.9 WNW Wilsonville - 3 NNE Wilsonville
+2011,Marengo,0,0,1.6 NW Linden Airport - 1.1 SSE Siddonsville
+2011,Monroe - Butler,0,0,1.7 SE Midway - 10.3 NE Midway
+2011,Marengo,0,0,2.8 NNW Anopia - 1.6 ESE Jefferson
+2011,Monroe,0,0,0.6 SW Tunnell Springs - 0.4 N Tunnell Springs
+2011,Marengo,1,4,5.1 NNW Nanafalia - 1.0 ESE Jefferson Station
+2011,Shelby,0,0,Alabaster
+2011,Greene-Hale,0,0,2.1 ESE Forkland - 2.3 W Hogglesville
+2011,Choctaw,0,0,2.5 NNW Hinton - 2.2 NW Robjohn
+2011,Bibb,0,0,1.1 ENE Mertz - 1.5 ESE West Blocton
+2011,Sumter,0,0,3 E Cuba - 3.3 W Lilita
+2011,Hale,0,0,3.4 NW Greensboro - 4.2 NNW Greensboro
+2011,Greene-Tuscaloosa,0,0,2.5 ENE Knoxville - 1.6 WSW Box Springs
+2011,Monroe,0,0,3 S Beatrice
+2011,Sumter,0,0,2.2 SSE Bodka - 1.0 SSE Gainesville
+2011,Sumter,0,0,4.1 SW Geiger - 2.8 SSE Warsaw AL
+2011,Clarke,0,0,3.2 NW Carlton - 4.5 N Carlton
+2011,Washington,0,1,1.5 N Yarbo - 2.1 NNE Yarbo
+2011,Choctaw - Marengo,0,0,3.8 SSW Butler - 0.1 WSW Nanafalia
+2011,Washington,0,0,3.5 NNW Yellow Pine - 5.3 NNE Yellow Pine
+2011,Choctaw,0,0,1.8 E Evansboro - 3.4 NNE Water Valley
+2011,Choctaw,0,0,1.1 WNW Melvin
+2011,Jefferson,0,0,2.4 SSW Homewood - 2.1 SSW Homewood
+2011,Shelby,0,0,1.9 NW Aldrich - 1.8 NNW Aldrich
+2011,Baldwin,0,0,1.3 SSW Silverhill - 0.8 NE Silverhill
+2011,Mobile,0,4,2.9 WNW Theodore - 2.4 WNW Theodore
+2011,Mobile,0,0,5.5 NNW Grand Bay - 5.6 N Grand Bay
+2011,Lowndes,0,0,4.2 WNW Tyson - 1.7 NE Tyson
+2011,Chambers,0,0,1.2 WNW White Plains - 1.0 NE White Plains
+2011,Autauga - Elmore,0,0,1.1 SW Pine Level -�1.3 SW North Elmore
+2011,Talladega,0,0,1.2 SSE Nottingham - 1.4 SE Nottingham
+2011,Madison,0,0,2.0 NW Fairview - 1.5 NNW Plevna
+2011,Cullman,0,0,1.5 E Battleground
+2011,Marion,0,0,0.8 ENE Wiginton - 1.4 ENE Wiginton
+2011,Henry,0,0,1.2 W Wills Crossroads - 5.0 E Abbeville
+2012,Montgomery,0,0,Waugh
+2012,Pike,0,2,1.6 W Goshen-3.65 NE Troy Airport
+2012,Lowndes,0,0,2 NW Hayneville-6.42 NE Lowndesboro
+2012,Lowndes,0,0,Mosses
+2012,Lowndes,0,0,1 SE Farmersville-2.62 ENE Farmersville
+2012,Mobile,0,0,E Howell Ms - 2.9 E Wilmer
+2012,Coffee,0,0,2.6 NNE Damascus - 0.9 E Victoria
+2012,Clarke-Wilcox,0,0,8 SW Grove Hill - 12 SW Camden
+2012,Washington,0,0,2 S Deer Park - 1.5 SE Deer Park
+2012,Marengo,0,0,S Demopolis - E Demopolis
+2012,Dale-Pike,0,0,Highway 231 Pea River Bridge - Tennille
+2012,Mobile,0,0,Halls Mill & Dauphin Island Parkway - Prichard
+2012,Choctaw,0,0,8 W Butler - 4.6 NW Butler
+2012,Crenshaw,0,0,NNW Patsburg
+2012,Crenshaw,0,0,NW Luverne
+2012,Coffee,0,0,1.4 N Basin
+2012,Marengo,0,0,0.5 ESE Hoboken-1.68 SE Sweet Water
+2012,Mobile,0,0,Mobile - Prichard
+2012,Jefferson,0,0,0.5 W Samson
+2012,Jefferson,0,0,2.2 SW Greenwood - 2 SW Greenwood
+2012,Coosa,0,0,1 SW Pentonville - 0.5 SW Pentonville
+2012,Geneva,0,0,0.5 W Samson
+2012,Choctaw,0,0,1.0 E Toxey
+2012,Geneva-Coffee,0,0,"2.51 SSE Kinston-7.66 SE OppThe Geneva County emergency manager confirmed that an EF1 tornado touched down around the Highway 52 and County Road 20 area. Several large trees were blown down, and the roof was blown off a mobile home along with damage to sheds and a barn near County Road 5 and Bear Branch Road. This tornado continued into far southwest Coffee County before lifting. Monetary damage was estimated. The Coffee County emergency manager reported minor damage to structures in far southwest Coffee County. This was the result of a weak tornado moving out of northwest Geneva County. The Coffee county portion of this tornado was rated EF0. Monetary damage was estimated. The outer remnants of Hurricane Isaac spawned this tornado."
+2012,Geneva-Coffee,0,0,Near Geneva Airport - Near Cool Springs
+2012,Lee,0,0,2 NW Roxana-4.77 SSE Waverly
+2012,Geneva,0,0,3.2 WNW Malvern - 2.7 NNW Malvern
+2012,Pike,0,0,Near Troy Airport
+2012,Tallapoosa-Chambers,1,2,Wind Creek State Park-Eagle Creek-Trammel Crossroads
+2012,Chilton-Coosa,0,0,Verbena-Nixburg
+2012,Perry-Dallas-Autauga,0,0,Suttle-Grist State Park-Bethel Grove
+2012,Geneva,0,0,0.5 N Dundee
+2012,Lowndes,0,0,8.67 SW Mosses-4.75 E Hayneville
+2012,Coffee,0,0,1.2 W Brooklyn - 0.8 WNW Brooklyn
+2012,Limestone,0,0,1.8 WSW Bethel - 1.3 SE Bethel
+2012,Limestone,0,0,1.0 ENE O Neal - 1.8 SE Carey
+2012,Limestone,0,0,0.4 SSE Spencer - 1.2 W Elkmont
+2012,Jackson,0,0,0.5 NW Francisco - 0.8 NNE Fransisco
+2012,Madison,0,0,NW Meridianville - 1.4 E Buckhorn
+2012,Limestone-Madison,0,0,Near Stewerds Store - 1.9 SE Plevna
+2012,Geneva,0,0,1.4 SSE Slocomb - 1.6 SE Slocomb
+2012,Geneva,0,0,1.4 SSW Hartford - 1.0 SSE Slocomb
+2012,Perry,0,0,0.6 N Ellawhite - 1.1 NNE Ellawhite
+2012,Choctaw,0,0,2.7 SE Isney - 2.7 ESE Isney
+2012,Elmore,0,0,1.9 W Robinson Springs- 1.4 W Cobbs Ford
+2012,Chilton,0,0,4.2 ESE Kincheon - 2.3 W Cooper
+2012,Talladega,0,0,2.4 S Kymulga - 0.5 WNW Winterboro
+2012,Perry-Chilton,0,0,2.4 S Heiberger - 2.0 NNW Clanton Gragg Wade Field
+2012,Perry,0,0,3.5 SSW Heiberger - 2.0 S Heiberger
+2012,Jefferson-St. Clair,1,75,0.6 ENE Ketona - 2.1 N Argo
+2012,Sumter,0,0,0.5 N Parker - 1.6 NNE Parker
+2012,Tuscaloosa-Jefferson,1,1,7.1 N Kellerman - 0.8 NE Gilmore
+2012,Tuscaloosa,0,0,8.4 NW Burchfield - 8.6 NW Burchfield
+2012,Tuscaloosa,0,0,4.2 E Shirley - 4.5 E Shirley
+2012,Sumter,0,0,0.8 E Fair Oaks - 1.1 E Fair Oaks
+2013,Limestone,0,0,1.6 SE Holland Gin - 1.5 SE Holland Gin
+2013,Limestone,0,0,2.1 N Tanner - 1.5 SE Athens
+2013,Macon-Lee,0,1,4.3 SW Notasulga-2.8 NW Notasulga
+2013,Mobile,0,0,1.7 ENE Laurendine - 2.4 WNW Bellefontaine
+2013,Madison,0,0,East Huntsville
+2013,Madison,0,0,Redstone Arsenal-5.2 SSE Huntsville
+2013,Bibb,0,0,7 SSW Centreville-3 SE Brierfield
+2013,Winston,0,1,East Addison
+2013,Winston,0,0,Northern Smith Lake Area
+2013,Winston,0,0,Between Nauvoo and Poplar Springs
+2013,Walker,0,0,Mill Creek Area
+2013,Pickens,0,0,3.5 NW Pickensville - 1 E Ethelsville
+2013,DeKalb,0,0,5.1 WNW Fyffe - Near Shiloh
+2013,Marshall-Etowah,0,3,Boaz - 6.2 ENE Sardis City
+2013,Marshall-DeKalb,0,7,4.4 E Albertville-3.9 WSW Crossville
+2013,Colbert,0,0,2.8 NE Leighton-4 NE Leighton
+2013,Clarke,0,0,4.4 ESE Winn-5 ESE Winn
+2013,Washington-Clarke,0,0,5.3 S Bigbee - 2.2 SSW Winn
+2013,Winston-Cullman,0,0,0.6 N Addison - 1.8 NW Jones Chapel
+2013,Winston,0,0,2.8 NE Poplar Springs - 2.2 N Nathan
+2013,Walker,0,0,2.7 W Prospect - 2.7 NE Prospect
+2013,Fayette,0,0,3.5 NNW Covin - 2.3 N Fayette R Arthur Airport
+2013,Lamar,0,0,6.1 WSW Crews - 2.4 WSW Crews
+2014,Barbour,0,0,2.2 ENE Eufaula Weedon Airport - 2 E Wylaunee
+2014,Greene,0,0,2.6 ESE Forkland - 3.4 ENE Forkland
+2014,Russell,0,0,1.7 W Loflin - 1.6 W Loflin
+2014,Crenshaw-Pike-Bullock,0,0,2.4 SSW Blackrock - 0.6 ENE Postoak
+2014,Butler,0,0,1.4 S Georgiana-3.3 NE Avant
+2014,Washington-Clarke,0,0,2.7 ESE Chatom Municipal Airport - 4.1 ESE Winn
+2014,Perry,0,0,4 WNW Folsom - 1.3 S Morgan Springs
+2014,Colbert,0,1,0.2 NW Tuscumbia - 1.1 SSW Wilson Dam
+2014,Lamar,0,0,5.7 NNE Beaverton-6.7 NNE Beaverton
+2014,Marion,0,0,3.1 NE Bexar-3.9 ENE Shottsville
+2014,Marshall,0,0,1.7 SW Poplar Springs - 1.2 SW Poplar Springs
+2014,Madison,0,0,1 SE Madison - 2 SE Madison
+2014,Jackson,0,0,1.9 SSE Scottsboro-2.5 NW Rosalie
+2014,Colbert-Lawrence,0,0,2.3 W Old Bethel - 0.8 NNE Wolf Springs
+2014,Limestone,0,0,1 NNW Murphree Place - 1 NNE Murphree Place
+2014,Clay,0,0,3.2 ENE Gage - 3.3 ENE Gage
+2014,Tallapoosa,0,0,2 SE Alexander City - 1 E Alexander City
+2014,Bullock,0,0,2.4 W Perote - 1.9 WNW Perote
+2014,Geneva,0,0,5.8 E Black-5 WSW Fadette
+2014,Russell-Lee,0,13,3 NW Crawford - 2 NE Smiths Station
+2014,Macon,0,0,1 SW Society Hill - 0.2 NESociety Hill
+2014,DeKalb,0,0,3.7 ESE Fort Payne-4.4 E Fort Payne
+2014,DeKalb,0,0,5.2 SW Mentone-5.2 N Mentone
+2014,DeKalb,0,0,5.4 NE Boaz-6.3 NNE Boaz
+2014,Etowah,0,0,2 W Rockledge - 1 NW Sardis City
+2014,DeKalb,0,0,5.8 NE Dawson- 4 NNW Fort Payne
+2014,DeKalb,0,0,0.5 NW Dawson-1.6 NNE Dawson
+2014,Etowah-DeKalb,0,0,4 E Sardis City - 4 SE Crossville
+2014,St. Clair-Blount,0,2,4 WNW Springville - 4 WNW Horse Pens Forty
+2014,Clarke,0,0,8.8 SSE Grove Hill
+2014,Blount,0,0,3.9 SSW Oneonta - 4.75 ENE Oneonta
+2014,Jefferson,0,0,2 WSW Bessemer - 3 NNE Bessemer
+2014,Jefferson,0,0,4 SW North Johns - 5 NE North Johns
+2014,Tuscaloosa-Jefferson,0,0,2 NE East Brookwood - 2 NW Weller
+2014,Jefferson,0,3,3 SSW Adamsville - 0.7 W Brookside
+2014,Jefferson-Blount,0,4,0.6 W Morris - 1.1 SSE Hayden
+2014,Tuscaloosa,0,13,1.2 NW Hull - 1.7 S Cottondale
+2014,Sumter,0,0,5 SSE York - 4 SE York
+2014,Walker,0,0,1 SW Boldo - 1 NE Boldo
+2014,Cullman,0,0,Welti - Berlin
+2014,Jackson-DeKalb,0,0,4 SW Shiloh - 1 NE Higdon
+2014,Fayette-Marion,0,0,3 SE Glen Allen - 5 NW Eldridge
+2014,Pickens,0,5,6 NW Ethelsville - 5 W Shaw
+2014,Lamar,0,0,8.3 W Fernbank - 2.3 NNW Fernbank
+2014,Madison,0,0,4 NW Hazelgreen - 5 NE Hazelgreen
+2014,Marion,0,0,3 NNW Hamilton - 9.25 NE Hamilton
+2014,Limestone,2,30,5 SE Rogersville - 2 N Athens
+2014,Franklin,0,0,NW Russellville - NE Russellville
+2014,St. Clair,0,0,0.5 E Sanie - 0.7 S Odenville
+2014,DeKalb,0,1,4 NNE Fort Payne - 5 NE Fort Payne
+2014,Limestone,0,0,0.5 E Gipsy - 1.1 N Cross Key
+2014,Lauderdale,0,1,1.8 SSW Anderson - 1.8 E Anderson
+2014,Lauderdale,0,0,2.6 NNW Wheeler Lake South - 2.0 NNW Rogersville
+2014,Lawrence-Limestone,0,0,1.8 WSW Pointer Quarters - 1.2 WSW Wheeler Lake North
+2015,Jefferson,0,2,0.6 SE Midfield - 0.3 SSE Grasselli
+2015,Tuscaloosa,0,0,4.4 S Coaling - 0.7 SE Dudley
+2015,Barbour,0,0,5 SSW Garmon Crossroads - 1.1 WNW Hells Crossroads
+2015,Barbour,0,0,1.2 WNW Batesville - 2.3 ESE Spring Hill
+2015,Lauderdale,0,1,2 N Waterloo-8 NE Waterloo
+2015,Pike,0,7,2.1 SE Troy - 2.5 SE Troy
+2015,Russell,0,0,1.4 SW Nuckols - 0.5 NNW Nuckols
+2015,Morgan-Cullman,0,0,0.5 NW Cole Springs - 0.5 NE Enon
+2015,Morgan,0,0,2.6 W Brooksville - 2.3 WSW Brooksville
+2015,Madison,0,0,1.6 SE Huntsville International Airport - 1.5 NNE Trianna
+2015,Colbert-Lawrence,0,0,1.6 N Old Bethel - 0.9 NNW Avoca
+2015,Lawrence,0,0,1.8 WNW Town Creek - 1.7 SSE Wheeler
+2015,Colbert,0,0,0.5 W Sheffield - 0.7 NE Spring Valley
+2015,Limestone,0,0,0.7 S Pisgah
+2015,Houston,0,0,2.2 S Madrid - 1.2 S Farley Nuclear Plant
+2015,Russell,0,0,Oswichee-4ESE Fort Mitchell
+2015,Henry,0,0,5 SW Abbeville-3 SW Abbeville
+2015,Russell,0,0,5 SW Pittsview
+2015,Cherokee,0,0,1 NW Leesburg-3 NE Leesburg
+2015,Bullock,0,0,5 ENE Union Springs-6 ENE Union Springs
+2015,DeKalb,0,0,Ider-Sand Mountain
+2015,DeKalb,0,0,2.9 NE Grove Oak - 3 NNW Ten Broeck
+2015,Henry,0,0,1.8 NNW Hayes-1.7 NNW Hayes
+2015,Dale,0,0,1.1 NW Midland City
+2015,Dale,0,0,1.3 WSW Pinckard-0.2 NE Pinckard
+2015,Crenshaw,0,0,3.5 WNW Theba-1.9 W Social Town
+2015,Marion,0,0,1.6 ENE Pleasant Ridge-1.9 ENE Pleasant Ridge
+2015,Greene-Tuscaloosa,0,0,6.98 NNE Snoddy-7 NNW Ralph
+2015,Greene,0,0,3.9 NW West Greene-2.9 SSW Ridge
+2015,Monroe,0,0,4.9 SSW Turnbull - 4.8 SSW Turnbull
+2015,Sumter,0,0,2.7 WSW Bodka-1.9 W Bodka
+2015,Sumter,0,0,0.6 E Cuba-1.2 ENE Cuba
+2016,Franklin,0,0,Vina
+2016,Colbert,0,0,4 SSW Waterloo - 3 SSW Waterloo
+2016,Lee-Chambers,0,0,5 E Camp Hill - 2 E Waverly
+2016,Marengo-Hale,0,0,5 WSW Faunsdale - 1 SSE Newbern
+2016,Jackson,0,0,8 W Stevenson - 5WNW Stevenson
+2016,Jackson-DeKalb,4,9,4 ENE Pisgah - 10 NNW Ider
+2016,Marion,0,0,1.3 S Guin - 3.8 W Natural Bridge
+2016,Lamar,0,0,3.1 WSW Lamar County Airport - 3.1 S Beaverton
+2016,Marshall,0,0,3 NW Union Grove
+2016,Jackson,0,0,7 SW Bryant - 6 S Bryant
+2016,Winston-Cullman,0,0,6 NNE Arley - Nesmith
+2016,Jackson,0,0,4 W Hytop - 3 W Hytop
+2016,Madison-Jackson,0,0,3 ENE Huntsville - 3 N Princeton
+2016,Winston-Cullman,0,0,1 SSE Arley - 2 E Nesmith
+2016,Morgan,0,0,Danville Road - Herring Road
+2016,Winston,0,0,2 S Ashridge - 1 ENE Ashridge
+2016,Fayette,0,0,3 SW Fowlers Crossroads - 2 SW Fowlers Crossroads
+2016,Winston,0,0,5 E Haleyville - 5 ENE Haleyville
+2016,Marion,0,0,3 N Gu-Win - 2 WSW Lake Buttahatchee
+2016,Pickens,0,0,5 NE Ethelsville - 4 S Millport
+2016,Franklin-Colbert,0,3,9 NNW Russellville - 7 SSW Tuscumbia
+2016,Limestone,0,0,1.9 SW Oakland
+2016,Russell,0,0,4 N Hawkinsville - 5 NNE Hawkinsville
+2016,Barbour,0,0,Boot Hill - 5 N Louisville
+2016,Russell,0,0,4 SW Crawford - 3 SSW Ladonia
+2016,Bullock,0,0,4 NW Midway - 6 ENE Midway
+2016,Lee,0,0,5 SE Auburn - 2 ESE Beauregard
+2016,Lee,0,0,5 SSW Auburn - 4 SSW Auburn
+2016,Montgomery,0,0,4 WNW Shopton - 4 WNW Shopton
+2016,Bullock,0,0,6 WSW Hardaway- 3 SW Hardaway
+2016,Montgomery,0,0,5 SSE Montgomery - 2 W Pike Road
+2016,Lee,0,0,0.7 S Beauregard - 1.8 E Beauregard
+2016,Morgan-Limestone,0,0,2 NE Hartselle - 7 SE Mooresville
+2016,Blount,0,0,2.1 S Locust Fork - 1.8 S Locust Fork
+2016,Fayette,0,0,1.2 NW Boley Springs - 1.6 NNE Boley Springs
+2016,Fayette,0,0,2.9 NE Hubbertville - 3 SW Eldridge
+2016,Fayette,0,0,3.7 SE Bluff - 3.8 E Bluff
+2016,Pickens,0,0,3.9 NNE Ethelsville - 6.1 NE Ethelsville
+2016,Pickens,0,0,2.4 NW Stafford - 2.8 NNW Stafford
+2016,Butler,0,0,1 SW Mackenzie - 0.7 SSW Mackenzie
+2016,Escambia,0,0,Bradley
+2016,Lee,0,0,3.3 NW Opelika - 2.8 NE Opelika
+2016,Talladega,0,0,1.6 WSW Overbrook - 1.3 ESE Overbrook
+2016,Jefferson,0,4,0.5 SSE McAdory High School - 1.5 ENE Bessemer Airport
+2016,Shelby,0,0,3.7 SW Columbiana - 2.6 WSW Columbiana
+2016,Henry,0,0,Hardwickburg
+2016,Henry,0,0,2 NE Balkum
+2016,Henry,0,0,2 W Headland - 1 NW Headland
+2016,Houston,0,0,3 NNW Dothan - 2 WNW Kinsey
+2016,Houston,0,0,4 NW Dothan - 4 NNW Dothan
+2016,Houston-Dale,0,0,4 SSE Pinckard - 4 SE Midland City
+2016,Houston,0,0,1NNW Bailey Crossroad - 2 S Hollis Dairy Road
+2016,Marion,0,0,5 S Pigeye - 5 WSW Hackleburg
+2016,Pickens,0,0,3 ENE Reform - 5 NNE Pickens Airport
+2016,Russell-Lee,0,0,5.7 SW Crawford - 1.5 NNE Crawford
+2016,Russell,0,0,7.6 SW Hugley - 1.4 WNW Hugley
+2016,Pike,0,0,4 SSW Brundidge - 4 SE Brundidge
+2016,Covington,0,1,3.75 NNW Red Level - 7.6 N Red Level
+2016,Conecuh,0,0,2.1 SE Johnsonville - 3.6 E Johnsonville
+2016,Montgomery,0,0,2 S Mathews - Mathews
+2016,Escambia,0,0,Flomaton - 1.2 NW Pollard
+2016,Pickens,0,0,3 SE Ethelsville - 6.2 ENE Ethelsville
+2016,Lamar,0,0,3.7 S Beaverton - 2 E Beaverton
+2016,Fayette,0,0,1 NW Ashcraft Corner - 3 SE Belk
+2016,Pickens,0,1,5 WSW Cochrane - 6 NNE Carrollton
+2017,Randolph,0,0,4 WNW Roanoke - 1 WNW Roanoke
+2017,Lawrence,0,0,4.2 NW Hatton - 4.3 NNE Hatton
+2017,Colbert,0,0,3.5 W Littleville�- 1.7 W Littleville
+2017,Morgan,0,0,1 SW Trinity - 1�ESE Trinity
+2017,Chilton,0,0,1 ENE Campbell�- 5�SE Ashby
+2017,Autuaga,0,0,3 NNE Pletcher�- 4 ESE Maplesville
+2017,Autauga,0,0,2 S Autaugaville�- 3 W Autaugaville
+2017,Lowndes,0,0,3 S Hayneville - 3�E Mosses
+2017,Baldwin,0,0,1 NNW Orange Beach
+2017,Butler,0,0,10 NE Greenville�- 11 NE Greenville
+2017,Mobile,0,0,West Mobile
+2017,Baldwin,0,0,2 SSW Gulf Shores
+2017,Cullman-Marshall,0,0,1.7 SE Holly Pond - 3.5 NW Arab
+2017,Bibb,0,0,2 ESE Woodstock�- 1 ESE West Blocton
+2017,Bibb,0,0,4 WSW West Blocton�- 2�WSW West Blocton
+2017,Bibb,0,0,3 ENE Mertz - 2 WSW Eoline
+2017,Pickens-Lamar-Fayette,0,6,0.8�W Reform - 6 ESE Bluff
+2017,Shelby,0,0,3 NE Marvel
+2017,Jefferson,0,4,4 NNE Bessemer - 4 W Birmingham
+2017,Covington,0,0,5 SW Opp - 5 W Opp
+2017,Escambia,0,0,5 WNW Bradley - 5 NNW Bradley
+2017,Baldwin,0,0,1.8 SE Summerdale�- 1.7 SE Summerdale
+2017,Cullman,0,0,0.5 SW Vinemont - 3 SE Eva
+2017,Barbour,0,3,1 SSW Clayton - 1 E Clayton
+2017,Barbour,0,0,4 NW Clayton - 4 NW Clayton
+2017,Pike,0,0,3 NE Troy - 4 NNW Banks
+2017,Montgomery-Bullock,0,0,3 ESE Carters Hill - 4 WSW Mitchell
+2017,Jackson,0,0,3 SW Skyline - 2 S Skyline
+2017,Cullman,0,0,2.5 NW Jones Chapel - 1.6 SE Jones Valley
+2017,Franklin,0,0,5.5 N Red Bay - 3.5 NNW Burntout
+2017,Chambers,0,0,2 N Trammel Crossroads - 2 W Penton
+2017,Cleburne,0,0,3 S Trickem - 3 WSW Ranburne
+2017,Barbour-Henry,0,0,3 NW Coates - 8 SSE Eufaula Country Club
+2017,Crenshaw,0,0,Luverne
+2017,Covington,0,1,1.1 E Andalusia - 1.6 E Andalusia
+2017,Montgomery,0,0,2.6 S Pike Road
+2017,Lee,0,0,1 NE Pitts Airport - 1 ESE Sougahatchee Lake
+2017,Lee,0,0,4 NE Tuskegee National Forest - 1 SW Auburn
+2017,Bullock,0,0,1 NW Shopton - 2 NNE Shopton
+2017,Henry,0,0,2 WSW Grandberry Crossroads - 3.5 SW Haleburg
+2017,Tuscaloosa,0,0,1 N Hagler
+2017,Lee,0,0,1 W Smiths Station - Smiths Station
+2017,Lee,0,0,2 NW Crawford
+2017,Lee,0,0,3 SSE Opelika - 2 SSE Opelika
+2017,Lee,0,0,2 NNE Beauregard - 5 SSE Opelika
+2017,Pike - Barbour,0,0,5 N Goshen - 3 E Louisville
+2017,Lee,0,0,5 S Auburn - 3 SSE Auburn
+2017,Macon - Lee,0,0,3 N Society Hill - 4 SW Beauregard
+2017,Elmore,0,0,2 S Emerald Mountain - 1 S Emerald Mountain
+2017,Elmore,0,0,2 SSE Blue Ridge - 1.5 SE Blue Ridge
+2017,Elmore,0,0,1 SW Wetumpka - 1 NW Wetumpka
+2017,Marengo,0,0,1 ESE Wayne - 1 E Miller
+2017,Choctaw - Marengo,0,4,2.8 E Gilbertown - 1 E Putnam
+2017,St. Clair,0,0,2 ENE Coosa Island - 5 SW Pell City
+2017,Houston,0,0,1 NW Ardilla - 2 SW Cowarts
+2017,Geneva- Houston,0,0,1.4 S Malvern - 1.4 NW Memphis
+2017,Bullock,0,0,2 WNW Beans Crossroads - 4 E High Ridge
+2018,Lee,0,0,1.0 SE Opelika - 2 NNE Beauregard
+2018,Winston-Cullman,0,3,1 NNW Sardis - 4 WNW West Point
+2018,Jackson-DeKalb,0,0,0.6 E Higdon - 10.2 NNE Ider
+2018,Baldwin,0,0,2.6 NNE Elberta - 3.6 NNE Elberta
+2018,Baldwin,0,3,3 S Foley - 1.9 SE Foley
+2018,Baldwin,0,0,3.4 W Gulf Shores
+2018,Montgomery,0,0,2 NE Lapine - 2 SSW Ramer
+2018,Crenshaw,0,0,3.3 SSE Highland Home - 2 SE Highland Home
+2018,Crenshaw,0,0,8.4 WNW Luverne - 9.4 NW Luverne
+2018,Dale,0,0,1 S Fort Rucker - 1 WSW Fort Rucker
+2018,Calhoun,0,0,2 W Weaver - 2 WSW Weaver
+2018,Calhoun-Cleburne,0,4,3 SSW Silver Lakes Golf Course-4 SSE Mars Hill
+2018,Cherokee,0,0,3 SSE Centre - 3 SE Centre
+2018,St. Clair-Etowah-Calhoun,0,1,2 NE Ashville - 3 W Silver Lakes Golf Course
+2018,Blount-,0,0,3 S Highland Lakes - 1 S Whitney Junction
+2018,Jackson,0,0,6 SSE Huntland
+2018,Marshall,0,0,4 NNE Douglas - 3 SSW Albertville
+2018,Blount,0,0,1 S Strawberry - 2 SSE Strawberry
+2018,Madison,0,0,5 WNW Hazel Green - 3 N Hazel Green
+2018,Jackson,0,0,1.4 SE Fransisco - 1.8 ESE Fransisco
+2018,Morgan-Cullman,0,0,7 SW Hartselle - 4 NNE South Vinemont
+2018,Lawrence,0,0,1.6 ESE Wren - 2.7 W Speake
+2018,Limestone,0,0,4 SW Lester - 3 ESE Ardmore
+2018,Lawrence,0,0,11 N Pebble - 11 WSW Moulton
+2018,Franklin,0,0,1 WSW Russellville - 1 SE Russellville
+2018,Franklin,0,0,8 W Russellville - 7 W Russellville
+2018,Colbert,0,0,8 S Cherokee - 9 SSE Cherokee
+2018,Cullman,0,0,3 SE Eva - 3 ESE Eva
+2018,Houston,0,0,2.2 S Madrid - 2.7 WSW Sealy Springs
+2018,Washington,0,0,8 W Chatom
+2018,Marengo,0,0,2 NE Holtamville - 3 ENE Holtamville
+2018,Autauga,0,0,2 WSW Vida Junction - 1 SSW Vida Junction
+2018,Chilton,0,0,2 W Jemison - Jemison
+2018,Bibb,0,0,3 NNW Randolph - 4 N Randolph
+2018,Marengo - Hale,0,0,2 NNW Old Spring Hill - 2 N Faunsdale
+2018,Sumter,0,0,5 N Ward - 5 NNE Ward
