@@ -2,7 +2,7 @@
 a)I changed max coins which a player can take to 5 and it made the AI to take only one coin at one time.
 b) When it reached less than twenty it gave an error. KeyError 19. The range argument in the method takes a list of depths that it will try out. But when the range is (2,4) then its too small of range to try out all the depths as no moves are left to play.
 
-2)a) I can win if the negamax parameter is 1, if it's more than 1 than its always a draw. AI plays good but it plays same even if the parameter is 2 or 7. If its 1 then it looses.
+2)a) I can win if the negamax parameter is 1, if it's more than 1 than its always a draw. AI plays good but it plays same, even if the parameter is 2 or 7. If its 1 then it looses.
 b) GameController([Human_Player(), AI_Player(algorithm)]).play() change this line on 51 to this:-
    GameController([Human_Player(), Human_Player()]).play()
 3)
@@ -40,3 +40,5 @@ C4 B4
 D1 C2
 
 5)
+a) I will choose move M2. 
+b) The value would be 11.
